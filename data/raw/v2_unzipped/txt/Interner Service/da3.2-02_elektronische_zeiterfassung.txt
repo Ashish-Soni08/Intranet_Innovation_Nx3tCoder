@@ -1,0 +1,234 @@
+Inkrafttreten der Änderung zu Ziffer 7.6.2 am 01.11.2014 
+Inkrafttreten der Änderung zu Anlage 1 am 01.07.2016 
+Inkrafttreten der Änderung zu Ziffer 4.2.7 am 01.01.2019 
+ 
+ 
+Ballhaus 
+Bürgermeister
+
+
+3.2/02
+
+Fictional data to PROTECT PRIVACY
+
+Dienstvereinbarung über die elektronische Zeiterfassung bei der Stadt Hügelland
+
+Zwischen dem Bürgermeister der Stadt Hügelland und dem Personalrat wird gem. § 70 LPVG NW folgende Dienstvereinbarung abgeschlossen:
+
+Inhaltsverzeichnis
+
+1. Allgemeines und Geltungsbereich
+
+2. Verfahrensbeschreibung
+
+3. Arbeitszeiterfassung
+
+4. Erfassungsarten und - modalitäten
+
+5. Erfassung von Dienstgängen
+
+6. Workflows 1)
+
+7. Belange des Datenschutzes
+
+8. Verpflichtungen der Fachbereiche 2)
+
+9. Arbeits- und dienstrechtliche Aspekte
+
+10. Inkrafttreten
+
+1) elektronisch gestützte Arbeitsabläufe
+
+2) Anmerkung: Solange es auch andere Organisationsformen innerhalb der Verwaltung gibt wie z.B. Stäbe, Referate o.ä., gelten die Regelungen dieser Dienstvereinbarung für deren Leitungen entsprechend. Nachfolgend wird aus Vereinfachungsgründen nur noch der Begriff Fachbereich oder Fachbereichsleitung verwendet.
+
+1. Allgemeines und Geltungsbereich
+
+1.1 Diese Dienstvereinbarung ergänzt die "Dienstvereinbarung über die gleitende Arbeitszeit bei der Stadt Hügelland" vom 12.06.2018, nach der sich die grundsätzlichen Erfassungsmodalitäten richten, sofern nichts anderes bestimmt ist.
+
+1.2 Die Dienstvereinbarung zur elektronischen Zeiterfassung gilt uneingeschränkt für alle Mitarbeitenden, die an der gleitenden Arbeitszeit teilnehmen oder ihre Arbeitszeiten erfassen. Für alle anderen in der Anlage 1 aufgeführten Mitarbeitenden gelten lediglich die Bestimmungen über die Krankmeldungen, Überstunden- sowie Urlaubsanträge (Ziffer 6, "Workflows").
+
+1.3 Das eingesetzte Zeiterfassungssystem dient ausschließlich zur Erfassung der Anwesenheitszeiten, dem Führen der Zeitkonten für die gleitende Arbeitszeit sowie der Information der Mitarbeitenden über ihre geleistete Arbeitszeit.
+
+1.4 Darüber hinaus können aus den erfassten Daten anonymisierte Statistiken gewonnen werden, die z.B. bei der allgemeinen Personalplanung Berücksichtigung finden.
+
+1.5 Die Zeiterfassungssoftware enthält Workflows zu Urlaub, Überstunden, Zeitkorrektur, stundenweise bzw. ganztägige Abwesenheiten und Krankmeldung. Die Workflows ersetzen nach Einführung der elektronischen Zeiterfassung die vorhandenen manuellen Arbeitsvorgänge und dienen einer schnellen und effektiven Bearbeitung sowie Information der Mitarbeitenden. Die Ausweitung von im Zusammenhang mit der Zeiterfassung genutzten Workflows unterliegt der Mitbestimmung nach dem Landespersonalvertretungsgesetz (LPVG NRW) (Ziffer 6, "Workflows").
+
+2. Verfahrensbeschreibung
+
+2.1 Das Verfahren ersetzt die bisher manuelle Zeiterfassung mittels Zeiterfassungskarten. Als Software wird "ZEITPLUS Business" verwendet.
+
+2.2 Zur elektronischen Zeiterfassung werden insgesamt 7 Zeiterfassungsterminals (TZI700) der Firma TOPIN verwendet. Die Standorte der Terminals sind der Ziffer 4.1.2 dieser Dienstvereinbarung zu entnehmen.
+
+2.3 Die Schnittstelle zum Abrechnungsprogramm (z.Zt. LOGA) wird unter Beachtung aller datenschutzrelevanten Gesichtspunkte eingerichtet, um alle abrechnungsrelevanten Daten aus der ZEITPLUS-Software in das Abrechnungsprogramm übertragen zu können. Weitere Schnittstellen sind nicht vorhanden. Ausweitungen sind nur mit Zustimmung des Personalrates möglich.
+
+3. Arbeitszeiterfassung
+
+Die Arbeitszeiterfassung erfolgt an den in den Rathäusern installierten Terminals mittels eines Transponders. Nähere Ausführungen zu deren Handhabung finden sich in der Nutzungsvereinbarung für das Rathaus.
+
+3.1 Arbeitszeit ist die Zeit am Arbeitsplatz mit Ausnahme der Pausen. Die Arbeitszeit beginnt mit dem Betreten und endet mit dem Verlassen des Gebäudes, in dem sich der Arbeitsplatz des/der Mitarbeitenden befindet. Die verschiedenen Gebäudeteile des Rathauses stellen dabei ein Gebäude dar. Zur Arbeitszeit zählen auch Außendiensttermine, sonstige Dienstgänge und Dienstreisen.
+
+3.2 Jeder Beginn, jede Unterbrechung und jede Beendigung der Arbeitszeit ist in Form der unter Ziffer 4 beschriebenen Arten zu erfassen. Nachträgliche Korrekturen stellen die Ausnahme dar und sind in allen Fällen von den jeweiligen Vorgesetzten zu autorisieren.
+
+3.3 Mitarbeitende, die an der gleitenden Arbeitszeit teilnehmen, wird ein persönliches Arbeitszeitkonto am Bildschirm eingerichtet. Dieses ist mit einem Passwort geschützt. Die Mitarbeitenden haben somit jederzeit einen Überblick über die Anwesenheits- und Fehlzeiten sowie über den Status der gestellten Anträge. Über das System können Änderungen und Ergänzungen bei der jeweiligen Führungskraft beantragt werden.
+
+3.4 Die Führungskräfte haben das Recht und die Pflicht, die Arbeitszeitkonten aller direkt unterstellten Mitarbeitenden zeitnah einzusehen und zu prüfen. Die weiteren Verpflichtungen der Führungskräfte sind in Ziffer 8.1 dieser Dienstvereinbarung aufgeführt.
+
+4. Erfassungsarten und Erfassungsmodalitäten
+
+4.1 Erfassungsarten:
+
+4.1.1 Die elektronische Erfassung der Arbeitszeit erfolgt durch Terminals, am Bildschirmarbeitsplatz, durch Telefon oder mittels dienstlicher Mobiltelefone. Die Festlegung, welche dieser Erfassungsarten anzuwenden ist, richtet sich nach den nachfolgenden Ziffern.
+
+4.1.2 Mitarbeitende, deren Arbeitsplätze sich im Rathaus oder im Bildungszentrum befinden, erfassen ihre Arbeitszeit grundsätzlich mittels der zur Verfügung stehenden Terminals mit Hilfe der Transponder, die auch zur Öffnung und Schließung der Türen dienen.
+
+Die Standorte der Terminals sind:
+
+a) Rathaus, Hauptstraße 1
+
+• Haupteingang Altes Rathaus
+
+• Behinderteneingang Altes Rathaus
+
+• Nebeneingang Neues Rathaus, Nordflügel (Bereich Poststelle)
+
+• Foyer Neues Rathaus links
+
+• Foyer Neues Rathaus rechts
+
+b) Bildungszentrum, Schulstraße 10
+
+• Haupteingang
+
+• Nebeneingang für die Mitarbeitenden (Parkplatzseite)
+
+4.1.3 Mitarbeitende in den sonstigen Dienstgebäuden sowie Telearbeitende während der Heimarbeit erfassen ihre Arbeitszeit entweder am Bildschirm oder mittels (Mobil-)Telefon. Welche dieser Erfassungsarten verwendet werden oder entscheidet der Fachbereich Interner Service auf Antrag der Fachbereichsleitung. Gleiches gilt für die Erfassung von Dienstgängen (Ziffer 5). Sollte aus technischen Gründen ein zeitnahes Ein- oder Ausbuchen nicht möglich sein, so entscheidet der Fachbereich Interner Service auf Antrag der Fachbereichsleitung über individuell zu gewährende Kulanzzeiten.
+
+4.1.4 Auszubildende erfassen ihre Arbeitszeit grundsätzlich mittels der zur Verfügung stehenden Terminals mit Hilfe eines Transponders. Schultage und sonstige ausbildungsbedingte Dienstgänge sind als solche nach zu erfassen. Änderungen bezüglich der Anerkennung von Zeiten als Arbeitszeit ergeben sich daraus nicht; es verbleibt bei den seit 01.09.2020 geltenden Regelungen. Entsprechende Korrekturanträge bzw. alle übrigen im Rahmen der Zeiterfassung gestellten Anträge werden der Ausbildungsleitung im Fachbereich Interner Service zur Entscheidung zugeleitet.
+
+4.1.5 Die wesentlichen Schritte der verschiedenen Erfassungsarten sind dem Benutzerhandbuch zu entnehmen. Dieses steht allen Mitarbeitenden im Intranet zur Verfügung (siehe auch Anlage 2).
+
+4.2 Erfassungsmodalitäten:
+
+4.2.1 Die einzelnen Bestimmungen zur gleitenden Arbeitszeit, zu Soll-Zeiten, zur Anerkennung von Arbeitszeiten und zu Freistellungen sind in der "Dienstvereinbarung über die gleitende Arbeitszeit bei der Stadt Hügelland" vom 12.06.2018 (Nr. 3.2/03), im Folgenden "DV Gleitzeit" genannt, geregelt.
+
+4.2.2 Die Soll-Zeiten sowie die Ist-Zeiten werden minutengenau erfasst.
+
+4.2.3 Nach den gesetzlichen Arbeitszeitregelungen ist die Arbeit bei einer Arbeitszeit von mehr als 6 Stunden durch Pausen von insgesamt mindestens 30 Minuten, bei einer Arbeitszeit von mehr als 9 Stunden durch Pausen von insgesamt mindestens 45 Minuten zu unterbrechen. Spätestens nach 6 Stunden ist eine Pause einzulegen. Entsprechend dieser Vorgabe wird am Ende des Arbeitstages vom Zeiterfassungssystem die entsprechende Pausenzeit automatisch abgezogen, sofern nicht eine Pause gebucht wurde. Die gesetzliche werktägliche Arbeitszeit kann auf 10 Stunden nur verlängert werden, wenn innerhalb von 6 Kalendermonaten oder 24 Wochen im Durchschnitt 8 Stunden werktäglich nicht überschritten werden. Im Rahmen des Gesundheitsschutzes ist eine Überschreitung der Arbeitszeit von 10 Stunden nicht zulässig und wird automatisch gekappt. In Ausnahmefällen können, unter Anlegung eines strengen Maßstabs, Arbeitszeiten über 10 Stunden pro Tag anerkannt werden, wenn ein Notfall, ein nicht vorhersehbarer außergewöhnlicher Fall oder andere unaufschiebbare Aufgaben vorliegen. Ein entsprechender Antrag auf Anerkennung ist durch die jeweilige Fachbereichsleitung auf dem Dienstweg an den Fachbereich Interner Service zu stellen, welcher den Vorgang dem Personalrat vorlegt. Erst nach dessen Zustimmung kann die Arbeitszeit durch die ZEITPLUS-Administration freigegeben werden.
+
+4.2.4 Raucherpausen sind entsprechend der im Benutzerhandbuch dargestellten Vorgehensweise zu erfassen. Die Raucherpausen zählen nicht zur Arbeitszeit, gelten aber auch nicht als Arbeitspausen im Sinne von Ziffer 4.2.3, da sie die Mindestdauer von 15 Minuten unterschreiten.
+
+4.2.5 Das Ampelkonto laut Ziffer 8.1.2 der DV Gleitzeit ist in die elektronische Zeiterfassung einschließlich der individuellen Grenzen bei reduzierter Arbeitszeit eingearbeitet. Die jeweils geltenden "Ampelphasen" werden dabei im Arbeitskonto nach dem Stand des Monatsübertrages angezeigt. Wird am Monatsende die Rotphase erreicht, so werden die darüber hinausgehenden Stunden ohne vorherigen Hinweis gekappt. Es liegt in der gemeinsamen Verantwortung der Mitarbeitenden und der Vorgesetzten, frühzeitig gegenzusteuern. Sofern es hierbei nicht zu einer Verständigung kommt, kann, ebenso wie bei allen anderen sich aus dieser Dienstvereinbarung ergebenden Auseinandersetzungen oder Unklarheiten, die in der Dienstvereinbarung Gleitende Arbeitszeit (Ziffer 8.3) genannte Clearingstelle angerufen werden.
+
+4.2.6 Bei der Einrichtung eines Jahreskontos (Ziffer 9 der DV Gleitzeit) gilt die automatische Kappung nur am Ende des jeweiligen Jahreszeitraums.
+
+4.2.7 Korrekturbuchungen erfolgen online, indem Mitarbeitende über das Monatsjournal den entsprechenden Tag aktivieren und dann über die zur Verfügung stehenden Felder die Buchungen den tatsächlichen Zeiten anpassen. Diese Veränderungen lösen einen Workflow (Ziffer 6) zur direkten Führungskraft aus. Diese hat die Veränderungen zu genehmigen oder gegebenenfalls abzulehnen. Grundsätzlich nicht genehmigungsfähig sind Verstöße gegen gesetzliche oder tarifliche Regelungen, wie z.B. Höchstarbeitszeit oder Pausenregelungen (Ausnahmen s. Ziffer 4.2.3, letzter Absatz).
+
+5. Erfassung von Dienstgängen
+
+5.1 Definition "Dienstgang":
+
+Im Sinne der elektronischen Zeiterfassung ist ein Dienstgang jegliche Arbeitsausübung außerhalb des jeweiligen Dienstgebäudes. Hierzu zählen auch die in der DV Gleitzeit unter den Ziffern 6.7 (Krankenbesuche), 6.8 (Beisetzungen und Ehrungen) und 7.1 (Arztbesuche während der Kernarbeitszeit) beschriebenen Freistellungen.
+
+5.2 Arztbesuche:
+
+Sofern ein Arztbesuch die Kernarbeitszeit berührt, sind die Zeiten, die in die Kernarbeitszeit fallen, als Korrekturbuchung (von Kommen- bzw. Gehen-Buchungen) im Sinne der Ziffer 4.2.7 zu erfassen und mit der Bemerkung "Arztbesuch" zu versehen.
+
+5.3 Sonstige Dienstgänge:
+
+Bei Beginn eines Dienstgangs erfolgt an den Zeiterfassungsterminals eine besondere "Gehen"-Buchung (s. S. 4-5 des Benutzerhandbuchs). Hierdurch ist gewährleistet, dass die Zeit der Abwesenheit auch als Arbeitszeit gewertet wird. Der Dienstgang wird durch eine "Kommen"-Buchung beendet. Buchungskorrekturen wie unter Ziffer 4.2.7 sind auch bei Dienstgängen möglich.
+
+6. Workflows
+
+Die Zeiterfassungssoftware "ZEITPLUS Business" umfasst abschließend folgende Workflows (Ziffer 1.5):
+
+- Urlaub
+
+- ganztägige Abwesenheit (Freizeitausgleich, Abbau von Überstunden, Fortbildungen, Sonderurlaub, Dienstreise)
+
+- stundenweise Abwesenheit (Freizeitausgleich, Abbau von Überstunden)
+
+- Krankmeldungen
+
+- Überstundenanträge
+
+- Zeitkorrekturen
+
+Einzelheiten zu diesen Workflows sind dem Benutzerhandbuch zu entnehmen.
+
+7. Belange des Datenschutzes
+
+7.1 Allgemeines:
+
+Die zum Zwecke der Erfassung von Anwesenheitszeiten erfassten und gespeicherten Daten und deren Auswertung werden nicht zur Leistungsmessung oder zur Leistungskontrolle herangezogen. Es besteht Einigkeit darüber, dass die Nutzung der erfassten bzw. gespeicherten Daten neben den einzelnen betroffenen Mitarbeitenden nur diejenigen Personen erhalten, deren Aufgaben unmittelbar mit deren Nutzung zusammenhängen. Dabei bearbeiten die direkten Vorgesetzten die Workflows; weitere Vorgesetzte bis zur Fachbereichsleitung haben ein Einsichtsrecht.
+
+7.2 Zugriffe und Zugriffskontrolle:
+
+Die Zeiterfassung erfolgt als Online-Lösung im Rahmen des vorhandenen Netzwerks. Hierbei werden die Daten auf einem Server vorgehalten; die entsprechenden Bearbeiter und Bearbeiterinnen des Fachdienstes 3.4 - Information und Kommunikation sowie die verantwortliche Administration innerhalb des Fachbereichs 3.2 - Personalwirtschaft haben auf die Daten nur im Rahmen ihrer Berechtigung Zugriff.
+
+Im Rahmen des Zeiterfassungssystems werden Zugriffsprotokolle geführt, die die Identität der zugreifenden Personen, die Funktionen inkl. der Datenfelder, die von den zugreifenden Personen bearbeitet wurden und das Datum des Zugriffs beinhalten. Der Personalrat hat das Recht, die Zugriffsprotokolle jederzeit, ggf. unter Hinzuziehung von Sachverständigen, einzusehen.
+
+7.3 Gespeicherte Daten:
+
+Es dürfen nur die personenbezogenen Daten der Mitarbeitenden aufgezeichnet werden, die für die Anwesenheitskontrolle, die Abrechnung der Arbeitszeit, die Workflows sowie für die Berechnungen der zu errechnenden jährlichen Rückstellungsbeträge für die Bilanz erforderlich sind. Soweit vorhanden, werden diese Daten aus dem Personalabrechnungsverfahren "LOGA" übernommen (Ziffer 2.3).
+
+- Name, Vorname
+
+- Geburtsdatum
+
+- evtl. Grad der Behinderung für die Ermittlung des Urlaubsanspruchs sowie der wöchentlichen Arbeitszeit bei Beamten/Beamtinnen
+
+- Personalnummer
+
+- Fachbereich, Fachdienst
+
+- Abwesenheitskennzeichen (Urlaub, krank, Dienstreise, Dienstbefreiung etc.)
+
+- An- und Abwesenheitszeiten
+
+- Soll- und Ist-Arbeitszeit
+
+- Gleitzeit- und Überstundenkonto
+
+- Urlaubsanspruch
+
+Die gespeicherten Daten werden nur für die unter Ziffer 7.1 genannten Zwecke verwendet und dürfen nur für die mit der Durchführung des Verfahrens beauftragten Mitarbeitenden des Fachbereichs 3 - Interner Service zugänglich sein. Die Namen der beauftragten Mitarbeitenden sind in Anlage 3 aufgeführt, welche jährlich zu aktualisieren ist.
+
+7.4 Auswertungen:
+
+Folgende Auswertungen, die ausschließlich über den Fachdienst 3.2 - Personalwirtschaft vorgenommen werden, sind zugelassen:
+
+- Liste aller teilnehmenden Personen
+
+- auf Wunsch von Mitarbeitenden: monatliche Auswertung der Arbeitszeiten
+
+- Guthabenauswertung (Resturlaub, Überstunden, Zeitguthaben) per 31.12. zur Berechnung der Rückstellung
+
+- Anonymisierte Krankenstatistik in Bezug auf die einzelnen Organisationseinheiten
+
+Weitergehende Auswertungen sind nur zulässig nach vorheriger Beteiligung der Personalvertretung und der Datenschutzbeauftragten sowie aufgrund entsprechender Dienstanweisungen oder Dienstvereinbarungen.
+
+Mitarbeitende ohne Zugang zu einem dienstlichen PC erhalten auf Anforderung einen Ausdruck ihres Monatsjournals durch ihre/ihren unmittelbaren Vorgesetzte/Vorgesetzten.
+
+7.5 Datenlöschung:
+
+Die aufgezeichneten Daten über Urlaub sowie die An- und Abwesenheitszeiten werden aus steuerrechtlichen Gründen fünf Jahre nach Ablauf des Kalenderjahres gelöscht.
+
+7.6 Weitere Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit:
+
+7.6.1 Das Ampelkonto laut Ziffer 8.1.2 der DV Gleitzeit ist in die elektronische Zeiterfassung einschließlich der individuellen Grenzen bei reduzierter Arbeitszeit eingearbeitet. Die jeweils geltenden "Ampelphasen" werden dabei im Arbeitskonto nach dem Stand des Monatsübertrages angezeigt.
+
+7.6.2 Aus Sicherheitsgründen erfolgt bei einer Nichtaktivität innerhalb des Arbeitskontos von mehr als 60 Minuten eine automatische Abmeldung vom ZEITPLUS WebWorkflow.
+
+7.6.3 Im Falle eines Stromausfalls sind die Terminals in der Lage, über einen batteriegepufferten Flash-Datenspeicher (1MB) bis zu 10.000 Buchungen zu speichern und nach wiederhergestellter Stromzufuhr selbstständig an den Server zu übermitteln.
+
+7.6.4 Im Rahmen ihrer gesetzlichen Befugnisse haben die Datenschutzbeauftragte und der Personalrat das Recht, die Einhaltung der Belange des Datenschutzes zu kontrollieren und zu überwachen.
+
+7.7 Fernwartung:
+
+Im Rahmen eines Service-Vertrages wurde für die Wartung der Software der elektronischen Zeiterfassung eine Fernwartung vereinbart. Diese Fernwartung ist an besondere Datenschutzbestimmungen gekoppelt. Zudem sind die Datenschutzbestimmungen des KRZN in Bezug auf Fernwartung zu beachten. Diese sind als Anlage 4 beigefügt.
+
+8. Verpflichtungen der Fachbereiche:
+
+8.1 Kontrollen durch Vorgesetzte:
+
+Die Vorgesetzten haben durch regelmäßige Einsichtnahme in die Arbeitszeitkonten der unterstellten Mitarbeitenden sicherzustellen, dass die Zeit

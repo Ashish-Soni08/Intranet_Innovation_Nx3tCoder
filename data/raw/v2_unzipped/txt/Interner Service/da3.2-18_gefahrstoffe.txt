@@ -1,0 +1,214 @@
+       
+Dienstanweisung der Stadt Neustadt
+zur Umsetzung der Verordnung zum Schutz vor Gefahrstoffen 
+(Gefahrstoffverordnung - GefStoffV) vom 05.08.2008 (BGBl. I, S. 4822) in der 
+jeweils geltenden Fassung. 
+Inhaltsverzeichnis:
+1.
+Zweck der Dienstanweisung
+2.
+Anwendungsbereich
+3.
+Zuständigkeit
+4.
+Verfahren zur Umsetzung insbesondere des Dritten Abschnittes (§§ 7-9) und des 
+Vierten Abschnittes (§§ 10-16) der Gefahrstoffverordnung
+4.1 Beschaffung von Chemikalien und gefährlichen Arbeitsstoffen
+4.2 Sicherheitsdatenblätter
+4.3 Betriebsanweisungen
+4.4 Erstellen von Betriebsanweisungen gemäß § 14 GefStoffV 
+4.5 Unterweisung
+5.
+Regelung für vorhandene Gefahrstoffe (Bestände)
+5.1 Erfassen der vorhandenen Bestände
+5.2 Entsorgung von Gefahrstoff-Altbeständen
+6.
+Regeln über den Umgang mit Gefahrstoffen
+7.
+Inkrafttreten
+Verzeichnis der Anlagen:
+Anlage 1:
+Gefahrensymbole und Gefahrenbezeichnungen
+Anlage 2:
+Muster eines EG-Sicherheitsdatenblattes gem. 91/155 EWG
+Anlage 3:
+Betriebsanweisung gemäß § 14 der Gefahrenstoffverordnung (Muster-
+Vordruck)
+Anlage 4:
+Dokumentation der Unterweisung
+Anlage 5:
+Gefahrstofferfassungsbogen 
+Anmerkung: 
+Solange es auch andere Organisationsformen innerhalb der Verwaltung gibt wie z.B. 
+Ämter, Einrichtungen o.ä. gilt dies für deren Leitung entsprechend. Nachfolgend wird aus 
+Vereinfachungsgründen nur noch der Begriff Fachbereich oder Fachbereichsleitung 
+verwandt.
+1.
+Zweck der Dienstanweisung
+Im öffentlichen Dienst wird eine Vielzahl von Tätigkeiten mit Gefahrstoffen verrichtet. 
+Dies geschieht nicht nur in Bau- oder Betriebshöfen, Feuerwehren, 
+Theaterwerkstätten, Schwimmbädern oder vergleichbaren Bereichen. Auch in 
+Kindertageseinrichtungen, in Schulen,  bei der Reinigung oder im Büro  wird mit den 
+unterschiedlichsten Gefahrstoffen  bzw. gefährlichen Arbeitsstoffen umgegangen. 
+Diese Stoffe können giftig, ätzend, reizend, explosionsgefährlich, brandfördernd, 
+entzündlich, krebserregend oder sonst chronisch schädigend sein (Anlage 1).
+Die Vielfalt der Tätigkeiten mit Gefahrstoffen ist groß. Sie umfasst u.a.
+den Umgang mit ätzenden oder reizenden Reinigungsmitteln,
+das Verstreichen von und Besprühen mit Kunstharzlacken,
+den regelmäßigen Umgang mit lösemittelhaltigen Klebern,
+das Betanken von Fahrzeugen und Maschinen mit Kraftstoffen,
+den Umgang mit Chemikalien z.B. in der Lichtpauserei und
+den Umgang mit Tonern in Kopierern, Druckern, Faxgeräten.
+Mit der Anwendung der Gefahrstoffverordnung sollen die Mitarbeiterinnen und 
+Mitarbeiter vor der Einwirkung gefährlicher Stoffe beim täglichen Umgang geschützt 
+werden.
+Es ist wichtig, den Mitarbeiterinnen und Mitarbeitern bewusst zu machen, dass es im 
+Interesse eines jeden Einzelnen liegt, die Hinweise auf besondere Gefahren zu 
+beachten sowie die Sicherheitsratschläge zu befolgen und die notwendigen 
+Schutzmaßnahmen zu ergreifen.
+2.
+Anwendungsbereich
+Die Dienstanweisung zur Durchführung der Gefahrstoffverordnung gilt für den 
+gesamten Dienstbetrieb der Stadt Neustadt einschließlich der Schulen. Hiervon 
+ausgenommen ist der Unterrichtsbetrieb (innerer Schulbereich). 
+Für diesen Bereich sind die Vorschriften der Unfallkasse NRW in der jeweils 
+aktuellen Fassung anzuwenden (z.Z. GUV-SR 2003 und GUV-SR 2004). Die 
+Verantwortung hierüber obliegt den Schulleitungen.
+Die in dieser Dienstanweisung festgelegten internen Verfahrensabläufe sind für alle 
+Mitarbeiter und Mitarbeiterinnen verbindlich.
+Ausgenommen vom Anwendungsbereich ist der gelegentliche Umgang mit 
+Gefahrstoffen, die bei bestimmungsgemäßer Verwendung nur ein sehr geringes 
+Gefährdungspotential aufweisen. Hierzu zählen Klebestifte, Korrekturfluids (Tipp-Ex) 
+u.ä. 
+3.
+Zuständigkeit
+Die sich aus der Gefahrstoffverordnung (GefStoffV) ergebenden Aufgaben und 
+Pflichten obliegen wie alle Unternehmerpflichten zunächst dem Bürgermeister als 
+Dienstherrn.
+Die Wahrnehmung dieser Aufgaben und Pflichten wird den 
+Fachbereichsleitungen  übertragen.
+4.
+Verfahren zur Umsetzung insbesondere des Dritten Abschnittes (§§ 7- 9) sowie 
+des Vierten Abschnittes (§§ 10 - 16) der  Gefahrstoffverordnung
+4.1   Umgang mit Chemikalien und gefährlichen Arbeitsstoffen
+Alle Fachbereichsleitungen sind verpflichtet, zunächst festzustellen, ob die 
+Beschäftigten Tätigkeiten mit gefährlichen Arbeitsstoffen durchführen oder ob 
+Gefahrstoffe bei diesen Tätigkeiten entstehen oder freigesetzt werden. Ist dies 
+der Fall, so haben diese alle hiervon ausgehenden Gefährdungen für die 
+Gesundheit und Sicherheit der Beschäftigten unter folgenden Gesichtspunkten 
+zu beurteilen:
+Gefährliche Eigenschaften der Stoffe oder Zubereitungen,
+Informationen des Herstellers oder Inverkehrbringers insbesondere im 
+Sicherheitsdatenblatt,
+Ausmaß, Art und Dauer der Exposition und
+Möglichkeiten der Substitution durch weniger gefährliche Ersatzstoffe.
+Die Fachbereichsleitungen haben dafür Sorge zu tragen, dass die durch einen 
+gefährlichen Arbeitsstoff bedingte Gefährdung der Gesundheit und Sicherheit 
+der Beschäftigten bei der Arbeit beseitigt oder auf ein nicht verzichtbares 
+Minimum verringert wird. Die Maßnahmen zur Erreichung des Schutzzieles sind 
+in der zu erstellenden Gefährdungsbeurteilung festzulegen. Die Fachkraft für 
+Arbeitssicherheit kann hier geeignete Hilfestellung leisten.
+Darüber hinaus ist sicherzustellen, dass gefährliche Arbeitsstoffe nur dann 
+beschafft werden, wenn eine den Vorschriften entsprechende ordnungsgemäße 
+Lagerung erfolgen kann.
+4.2  Sicherheitsdatenblätter
+Die Hersteller oder Inverkehrbringer von Chemikalien und gefährlichen 
+Arbeitsstoffen sind nach der GefStoffV verpflichtet, Sicherheitsdatenblätter 
+bereitzuhalten (Anlage 2). Diese enthalten Informationen über 
+Zusammensetzung und Handhabung der gelieferten Stoffe sowie 
+Sicherheitsmaßnahmen. 
+Sicherheitsdatenblätter sind durch den beschaffenden Fachbereich beim 
+Hersteller oder Inverkehrbringer anzufordern, wenn es sich um einen 
+Gefahrstoff handelt oder wenn dies nicht ausgeschlossen werden kann.
+4.3  Betriebsanweisungen
+Die Fachbereichleitungen müssen sicherstellen, dass den Beschäftigten, die 
+Umgang mit Gefahrstoffen haben, Betriebsanweisungen in verständlicher Form 
+und Sprache zugänglich gemacht werden. Hierin sind in Kurzform alle wichtigen 
+Informationen enthalten über die Art der Gefährdung des jeweiligen Stoffes 
+sowie über die bei der Anwendung zu befolgenden Schutzmaßnahmen und 
+Verhaltensregeln. Insbesondere wird auf das Benutzen geeigneter 
+Schutzausrüstung und/oder Schutzkleidung hingewiesen. Angaben über die 
+richtigen Erste-Hilfe-Maßnahmen  sind ebenfalls enthalten.
+4.4  Erstellen von Betriebsanweisungen gemäß § 14 GefStoffV 
+Auf der Grundlage der von den Fachbereichen zur Verfügung gestellten 
+Sicherheitsdatenblätter (Ziffer 4.2) erstellt die Fachkraft für Arbeitssicherheit 
+über jedes Produkt, das gemäß der GefStoffV ein Gefahrstoff und als solches 
+gekennzeichnet ist, eine Betriebsanweisung, die den Fachbereichen 
+ausgehändigt wird (Anlage 3).
+Durch die Fachkraft für Arbeitssicherheit wird auch geprüft, ob und in welchem 
+Umfang weitere Maßnahmen notwendig sind (z.B. Messungen zur Einhaltung 
+von Grenzwerten, arbeitsmedizinische Vorsorgeuntersuchungen).
+4.5  Unterweisungen
+Die Fachbereichsleitungen haben sicherzustellen, dass die Beschäftigten 
+anhand der Betriebsanweisungen über auftretende Gefährdungen und 
+entsprechende Schutzmaßnahmen mündlich in verständlicher Form und 
+Sprache unterwiesen werden. Die Unterweisung muss vor Aufnahme der 
+Tätigkeit und danach mindestens jährlich durchgeführt werden. Die 
+Unterweisungen sind zu dokumentieren (Anlage 4). Die Dokumentationen 
+verbleiben im Fachbereich. 
+5.
+Regelung für vorhandene Gefahrstoffe (Bestände)
+5.1  Erfassen der vorhandenen Bestände
+Die in den Fachbereichen vorhandenen Chemikalien und Arbeitsstoffe sind, 
+soweit es sich um Gefahrstoffe im Sinne der GefStoffV (Anlage 1) handelt, von 
+dort nach dem Muster der Anlage 5 zu erfassen. Die Ziffern 4.2 bis 4.5 sind 
+analog anzuwenden.
+5.2  Entsorgung von Gefahrstoff-Altbeständen
+Gefahrstoffe, die nicht mehr benötigt werden oder durch weniger gefährliche 
+Stoffe ersetzt worden sind sowie Stoffe, deren Zusammensetzung nicht 
+zweifelsfrei geklärt werden kann, sind einer fachgerechten Entsorgung 
+zuzuführen. Auskunft erteilen die sbm AöR.
+6.
+Regeln über den Umgang mit Gefahrstoffen
+Nachfolgend aufgeführte Regeln beim Umgang mit Gefahrstoffen, d.h., beim 
+Verarbeiten, Mischen, Umfüllen, Transportieren und Lagern sind von den Mitarbeiter/
+inne/n zu beachten:
+6.1
+Gefahrstoffe müssen unbedingt klar und deutlich gekennzeichnet sein. Grund-
+sätzlich ist dies bereits beim Hersteller erfolgt. Für die Kennzeichnung gelten 
+die jeweils aktuellen Gefahrstoffsymbole und Gefahrenbezeichnungen der 
+Anlage 1.
+6.2
+Es sind nur die Gefahrstoffe zu benutzen, die vom Arbeitgeber zur Verfügung 
+gestellt werden.
+6.3
+Gefahrstoffe sollen aus Originalgebinden nicht um- oder abgefüllt werden. 
+Sollte eine Umfüllung jedoch unumgänglich sein, müssen die neuen, für die 
+jeweiligen Gefahrstoffe geeigneten Behältnisse, mit den entsprechenden 
+Gefahrensymbolen und den Sicherheitshinweisen versehen werden. 
+Gefahrstoffe niemals in Behältnissen aufbewahren, die durch Form oder 
+Bezeichnung mit Lebens- oder Genussmittelbehältern verwechselt werden 
+können.
+6.4
+Die Arbeitsplätze müssen gut belüftet sein, wenn Gefahrstoffe verarbeitet 
+werden.
+6.5
+An Arbeitsplätzen, an denen mit Gefahrstoffen umgegangen wird, darf 
+grundsätzlich nicht gegessen, getrunken oder geraucht werden.
+6.6
+Bei einem Unfall sind unverzüglich Erste-Hilfe-Maßnahmen einzuleiten, ggf. ist 
+ein Arzt hinzuzuziehen.
+6.7
+Der Umgang mit Gefahrstoffen darf nur so lange wie unbedingt nötig dauern.
+6.8
+Die Gefahrstoffe sind übersichtlich geordnet und getrennt von Lebens- oder 
+Futtermitteln zu lagern.
+6.9
+Vor dem Umgang mit Gefahrstoffen sind die Sicherheitshinweise auf den 
+Behältern und Packungen und Anleitungen genau durchzulesen und bei der 
+Verarbeitung einzuhalten.
+6.10 Jeweils vorgegebene persönliche Schutzausrüstungen (z.B. 
+Schutzhandschuhe, Sicherheitsschuhe, Augenschutz, Atemschutz) müssen 
+zur Verfügung gestellt und regelmäßig gewartet bzw. ausgetauscht werden. 
+Die Mitarbeiter/innen haben sie bei dem Umgang mit Gefahrstoffen gemäß 
+den Betriebsanweisungen unbedingt zu benutzen. Es besteht Tragepflicht. 
+Empfohlene Hautschutzmittel sind ebenfalls zur Verfügung zu stellen und zu 
+benutzen.
+7.
+Inkrafttreten
+Diese Dienstanweisung tritt mit sofortiger Wirkung in Kraft.
+Neustadt, den 
+Winterburg 
+Bürgermeister
+                    
+5.8/19

@@ -1,0 +1,30 @@
+Telefonabrechnung
+für die Zeit von 01.01.2020 - 31.03.2020
+Monatliche Grundgebühren
+Account                       Nebenstelle              Kosten
+301       Kanzlerstrasse 187        Herr Lochmann        19,00 €
+311       Hauptstrasse 15           Frau Meier           15,00 €
+314       Am Schlosspark 72         Herr Schmidt         27,00 €
+Souvenirsaal                      9006                  10,00 €
+Hauptstrasse 15                   9008                  12,00 €
+gesamt:                                                ------- 
+                                                     83,00 €
+Gespräche
+intern                                                          3,90 €
+extern                                                        12,70 €
+gesamt:                                                        ------- 
+                                                    16,60 €
+---------------------------------------------------------------------------------------------------
+Private Gebührenabrechnung
+Sofern die technischen Möglichkeiten bestehen, eine Abrechnung der Gebühren 
+für Privatgespräche wie oder über die TKA HiPath 4000 durchzuführen, gelten 
+die hierzu bereits ausgeführten Bestimmungen entsprechend.
+Sofern diese technischen Möglichkeiten nicht bestehen, sind Listen zu führen, in 
+denen Ort und Zeitpunkt sowie Dauer des Privatgesprächs und Handzeichen von 
+dem das Telefon benutzenden Mitarbeitenden einzutragen sind.
+Die Listen sind quartalsweise dem Fachdienst für Informations- und 
+Kommunikationstechnik (FD IuK) zuzuleiten oder bei eigener 
+Budgetverantwortung im Kommunikationsbereich in eigener Zuständigkeit mit 
+den Mitarbeitenden abzurechnen.
+Bezüglich der Abrechnung und eventueller Beanstandungen gelten die in Ziffer 7 
+gemachten Ausführungen entsprechend.

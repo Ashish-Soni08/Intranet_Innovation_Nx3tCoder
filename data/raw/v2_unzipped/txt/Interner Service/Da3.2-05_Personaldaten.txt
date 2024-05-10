@@ -1,0 +1,258 @@
+Dienstvereinbarung zur technikunterstützten Personaldatenver-
+arbeitung für die Mitarbeiterinnen und Mitarbeiter der Stadt Badendorf
+AUTHOR: Franz Müller
+ISSUE DATE: 15.06.2020
+EFFECTIVE DATE: 01.07.2020
+I n h a l t s v e r z e i c h n i s
+Seite
+1.
+Grundsätze
+2
+2. 
+Geltungsbereich und Zuständigkeiten
+2
+3. 
+Begriffe
+2/3
+4. 
+Generelle Grundsätze zur Handhabung von Personaldaten
+3
+5. 
+Dokumentation des EDV-Systems und der Datenstruktur
+3/4
+6. 
+Auswertungen
+4
+7. 
+Schnittstellen und Verknüpfungen
+5
+8.
+Personaldatenverarbeitung auf Personalcomputer
+5
+9.
+Personalausfallstatistik
+5-7
+10.
+Datenübermittlung an Dritte
+7
+11.
+Rechte der Beschäftigten
+7-8
+12.
+Rechte des Personalrates
+8
+13.
+Inkrafttreten
+8
+1.  Grundsätze
+Diese Dienstvereinbarung ergänzt die Dienstvereinbarung zur Regelung von 
+Arbeitsbedingungen für Arbeitnehmer an Bildschirmarbeitsplätzen vom 30.03.1983. 
+Sie dient der Regelung der technikunterstützten Verarbeitung von Personaldaten 
+bei der Stadt Badendorf.
+Die Dienstvereinbarung hat den Zweck, die Personalarbeit durch den Einsatz 
+technikunterstützter Personaldatenverarbeitung in qualitativer und wirtschaftlicher 
+Hinsicht zu verbessern und das von der Verfassung eingeräumte Recht des 
+einzelnen, im Rahmen der gesetzlichen Vorgaben grundsätzlich selbst über 
+Preisgabe und Verwendung seiner persönlichen Daten zu bestimmen (informa-
+tionelles Selbstbestimmungsrecht), als gleichrangiges Ziel der Personaldatenverar-
+beitung zu verankern.
+Insbesondere muß die technikunterstützte Personaldatenverarbeitung dem 
+Grundsatz der Erforderlichkeit genügen; zweckfremder Gebrauch von Personaldat-
+en ist zu verhindern.
+2.
+Geltungsbereich und Zuständigkeiten
+Diese Dienstvereinbarung gilt für die technikunterstützte Personaldatenverar-
+beitung i.S.v. Ziffer 4 dieser Dienstvereinbarung. Bei der Planung und Entwicklung 
+technikunterstützter Personaldatenverarbeitung ist der Personalrat frühzeitig zu 
+unterrichten. Die Dienstvereinbarung regelt den Umgang mit Daten aus Beschäfti-
+gungsverhältnissen aller Mitarbeiterinnen und Mitarbeiter der Stadt Badendorf.
+3.
+Begriffe
+(1)
+Personaldaten sind alle personenbezogenen und personenbeziehbaren Daten 
+aus den Beschäftigungsverhältnissen bei der Stadtverwaltung Badendorf, die in 
+zur Personaldatenverarbeitung bestimmten Programmsystemen (z.B. PSE, 
+DOOT) enthalten sind.
+(2)
+Personaldatenverarbeitung ist das Erheben, Speichern, Verändern, 
+Auswerten, Nutzen, Übermitteln, Sperren und Löschen von Personaldaten.
+(3)
+Auswertung ist jede Übermittlung oder Ausgabe von Personaldaten, insbeson-
+dere am Bildschirm oder auf Papier.
+(4) Es gelten im übrigen die Begriffsbestimmungen des Landesdatenschutzgeset-
+zes NW.
+4.
+Generelle Grundsätze zur Handhabung von Personaldaten
+(1)
+Personaldaten der Beschäftigten dürfen nur verarbeitet werden, wenn dies zur 
+Eingabe, Durchführung, Beendigung oder Abwicklung des Dienst- oder 
+Arbeitsverhältnisses oder zur Durchführung organisatorischer, personeller und 
+sozialer Maßnahmen, insbesondere auch zu Zwecken der Personalplanung 
+und des Personaleinsatzes, erforderlich ist oder eine Rechtsvorschrift, ein 
+Tarifvertrag oder eine Dienstvereinbarung dies vorsieht.
+Jedes Programm ist mit dem Personalrat abzustimmen und in einer Pro-
+grammbeschreibung zu dokumentieren.
+(2)
+Die Nutzung der Programmsysteme zu den nachfolgend aufgeführten 
+Zwecken ist unzulässig
+-
+zur Überwachung von Arbeitsleistungen
+-
+zur Speicherung von disziplinarischen und arbeitsrechtlichen Maßnahmen
+-
+zur Durchführung von Anwesenheitskontrollen.
+Eine Erfassung und Speicherung anonymisierter Daten zu statistischen 
+Zwecken bleibt unberührt. Die Rückführbarkeit der Daten auf konkrete 
+Personen ist dabei zu verhindern.
+(3)
+Ausnahmen von Absatz 2 sind nur mit Zustimmung des Personalrates 
+zulässig.
+5.
+Dokumentation des EDV-Systems und der Datenstruktur
+(1)
+Von den personaldatenverarbeitenden Ämtern oder der TUIV-Stelle sind 
+listenmäßig festzuhalten
+a) die Hardwarekonfigurationen und deren Schnittstellen unter  Angabe der 
+Standorte sowie deren Leistungsdaten,
+b) die Systemsoftware-Produkte, die zum Betrieb der Anwendungssoftware 
+entsprechend dem Geltungsbereich dieser Dienstvereinbarung genutzt 
+werden,
+c)
+eine Kurzbeschreibung der personaldatenverarbeitenden Software unter 
+Angabe der Zweckbestimmung, Nutzungsmöglichkeiten und  wichtiger 
+Funktionen.
+(2)
+Sofern eine Programmbeschreibung vorliegt, ist diese von den personaldaten-
+verarbeitenden Ämtern aktuell vorzuhalten. Dem Personalrat ist zeitnah der 
+aktuelle Stand der Programmbeschreibung zuzuleiten. Liegt eine Pro-
+grammbeschreibung nicht vor oder ist diese nicht vollständig, so kann er-
+satzweise eine Programmbeschreibung mit folgenden Punkten vorgehalten 
+werden:
+a) eine kurze Erläuterung der verwendeten Dateien (Datenkatalog) und der 
+für die Verarbeitung genutzten Software.
+b) die Festlegung und Beschreibung der einzelnen Datenfelder 
+(Datenstruktur) hinsichtlich Zweck, Verwendung in welcher Auswertung, 
+Herkunft der Information, Übermittlung/Adressat und Löschungsfristen.
+c)
+eine Erläuterung der vorgesehenen Auswertungen (Auswertungskatalog) 
+hinsichtlich Zweck, Form (inhaltlich ggf. Muster), Zeitpunkt (regel- oder 
+unregelmäßig, bei Bedarf), Adressaten sowie benutzte Dateien.
+6.
+Auswertungen
+(1)
+Auswertungen zum Zwecke einer Leistungskontrolle sind grundsätzlich 
+unzulässig. 
+(2)
+Die automatische Personaldatenverarbeitung hat sich auf Hilfs- und Unter-
+stützungsfunktionen für den Entscheider/die Entscheiderin sowie für die 
+Sachbearbeiterinnen und Sachbearbeiter zu beschränken.
+7.
+Schnittstellen und Verknüpfungen
+(1)
+Schnittstellen und Verknüpfungen von Datenfeldern zwischen personaldaten-
+verarbeitenden EDV-Systemen sind grundsätzlich nur zum Zwecke der 
+Personalwirtschaft zulässig.
+(2)
+Eine automatisierte Verknüpfung von Daten der Dienstkräfte zum Zwecke der 
+Einführung von Kontrollsystemen für die Leistung einzelner Dienstkräfte oder 
+der Erstellung von Persönlichkeitsprofilen ist nicht zulässig.
+8.
+Personaldatenverarbeitung auf Personalcomputer
+Personaldaten dürfen auf autonomen PCs grundsätzlich weder erfaßt noch 
+verarbeitet werden. Ausnahmen sind die im KommIM (PSE und DOOT) enthalte-
+nen Auswertungen. Alle übrigen Anwendungen sind im Rahmen der Mitbestim-
+mung mit dem Personalrat zu regeln.
+9.
+Personalausfallstatistik
+(1)
+Es wird eine Personalausfallstatistik eingerichtet, mit deren  Hilfe eine Spe-
+icherung und Auswertung von Fehlzeiten der Beschäftigten der Stadt Badendorf 
+vorgenommen werden kann. 
+Die Personalausfallstatistik wird im wesentlichen zu folgenden Zwecken 
+genutzt:
+- Feststellung von Lohnfortzahlungsansprüchen,
+- Mitteilungen an Sozialleistungsträger (z.B. Krankenkassen, Unfallver-
+sicherungsträger, Arbeitsämter),
+- Hinweise an den Medizinischen Dienst der Krankenversicherungen und den 
+betriebsärztlichen Dienst
+- Personalfürsorge, personalwirtschaftliche Maßnahmen
+- Erstellung von Auswertungen (vgl. hierzu die als Anlage beigefügte Über-
+sicht über die einzelnen Auswertungsmöglichkeiten).
+Nach Ablauf von 5 Kalenderjahren werden die in der Personalausfallstatistik 
+gespeicherten Daten jeweils gelöscht (§ 102 g Abs. 2 LBG NW).
+(2)
+Die Zugriffsberechtigung erstreckt sich ausschließlich auf die für die Personal-
+wirtschaft zuständigen Sachbearbeiterinnen und Sachbearbeiter sowie deren 
+Vorgesetzte.
+Darüber hinaus werden den Fachamtsverantwortlichen die für die zu führen-
+den Personalgespräche (vgl. Abs. 4) erforderlichen Daten zur Verfügung 
+gestellt. Außerdem stehen die Daten der Organisationsabteilung für Fragen 
+der Personalbemessung zur Verfügung.
+(3)
+Dem Personalrat sind auf Anforderung die Auswertungen und Statistiken nach 
+dem jeweils aktuellen Stand zur Verfügung zu stellen.
+(4)
+Aus Gründen der Fürsorgepflicht des Arbeitgebers/des Dienstherrn führen die 
+Fachämter (grundsätzlich deren Leiter/innen) Personalgespräche mit 
+solchen Mitarbeiterinnen und Mitarbeitern, bei denen innerhalb von sechs 
+Kalendermonaten 6 oder mehr Kurzerkrankungen (Arbeits-/Dienstun-
+fähigkeiten von bis zu 3 Tagen) zu verzeichnen waren. Im Wiederholungsfall 
+ist Amt 11 über das Gesprächsergebnis vertraulich zu informieren. 
+Im übrigen kann entsprechend dem Ergebnis des Personalgesprächs durch 
+Amt 11 nach Beteiligung des Personalrates der betriebsärztliche Dienst 
+eingeschaltet werden. 
+Bei begründetem Mißbrauchsverdacht wird durch Amt 11 die Verpflichtung zur 
+Vorlage von Arbeits-/Dienstunfähigkeitsbescheinigungen eines Arztes ab dem 
+1. Tag einer Arbeits-/ Dienstunfähigkeit ausgesprochen; diese Verpflichtung 
+erstreckt sind grundsätzlich auf den Zeitraum eines Jahres.
+(5)
+Bei langfristig erkrankten Mitarbeiterinnen und Mitarbeitern kann in begründe-
+ten Einzelfällen ebenfalls aus Gründen der Fürsorgepflicht der betrieb-
+särztliche Dienst und/oder der Medizinische Dienst der Krankenkassen 
+eingeschaltet werden. 
+(6)
+Sind Mitarbeiter/innen langfristig erkrankt, haben die Fachamtsverant-
+wortlichen in eigener Zuständigkeit und Verantwortlichkeit zu prüfen, ob durch 
+geeignete organisatorische Maßnahmen (z.B. auch das Setzen von 
+Prioritäten) Entlastung geschaffen werden kann.
+Sollte dies nicht oder nicht im ausreichenden Maße möglich sein, so ist durch 
+die Fachamtsverantwortlichen zu prüfen, ob über den Einsatz des jeweiligen 
+Vertreters/der jeweiligen Vertreterin hinaus personelle Unterstützung aus dem 
+Amt oder dem Dezernat geleistet werden kann (z.B. auch durch Delegation).
+Erst wenn die vorgenannten Möglichkeiten nicht ausreichen, wird durch Amt 
+11 ein zeitlich befristeter Einsatz von Vertretungskräften angestrebt.
+10.
+Datenübermittlung an Dritte
+Die Übermittlung personenbezogener Daten an Dritte ist nur in den gesetzlich bzw. 
+tarifvertraglich vorgesehenen Fällen zulässig (siehe § 29 DSG NW). Eine darüber 
+hinausgehende Weitergabe von Daten, insbesondere an zukünftige Arbeitgeber/
+Dienstherren, ist nur mit ausdrücklicher Zustimmung der Betroffenen zulässig.
+11.
+Rechte der Beschäftigten
+(1)
+Die Mitarbeiter/innen haben das Recht, Einsicht in die über sie gespeicherten 
+Daten zu nehmen oder diese zu erfragen. 
+(2) Personenbezogene Daten sind zu berichtigen, wenn sie unrichtig sind. Sie 
+sind zu sperren, wenn ihre Richtigkeit vom Betroffenen bestritten wird und 
+sich weder die Richtigkeit noch die Unrichtigkeit feststellen läßt. Unzulässig 
+gespeicherte Daten sind zu löschen.
+(3)
+Jede/r Mitarbeiter/in hat das Recht, tatsächliche oder vermutete Verstöße 
+gegen das Datenschutzgesetz oder gegen diese Vereinbarung dem Personal-
+rat, dem Datenschutzsachbearbeiter oder  jeder anderen für den Datenschutz 
+zuständigen Person zu melden.
+12.
+Rechte des Personalrates
+Der Personalrat kann in sämtliche die Personaldatenverarbeitung betreffenden 
+Systemunterlagen einsehen, soweit sie verfügbar sind.
+13.
+Inkrafttreten
+Diese Dienstvereinbarung tritt am 01.07.2020 in Kraft. Es gelten die Bestimmungen 
+des § 70 Abs. 4 LPVG NW; die Nachwirkung wird auf längstens ein Jahr begrenzt. 
+Badendorf, den 15.06.2020
+gez.
+                                                    gez.
+Franz Müller
+Maria Schmidt
+Personal- und Organisationsdezernent     
+Personalratsvorsitzende

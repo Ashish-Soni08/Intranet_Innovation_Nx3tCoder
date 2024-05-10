@@ -1,0 +1,62 @@
+Synthetic dataset v2:
+---------------------
+
+- It includes TXT files following similar contents as the original dataset but as in v1, taking care of any sensitive data e.g., name of cities or people.
+
+- The contents in TXT files follows a similar structure as the original PDFs or DOC that inspired the data synthesis.
+
+- The folder structure depicts the original dataset to separate the different topics and easily track what the generated files should talk about.
+
+====The prompt used to generate the files:====
+
+'''
+Analyse what the following text content is about and generate a new one covering the same general topic with FICTIONAL data 
+to PROTECT PRIVACY including FAKE NAME of locations, people, phone numbers, budget amounts, dates, among other sensitive 
+data that rather stays ANONYMOUS. Use ENGLISH OR GERMAN language for the new contents. The text must include title, author, issue date and effective date. Make sure contents has a similar length as the original.
+'''
+
+For daenni01_dienstleistungsrahmenvertrag:
+'''
+Analyse what the following text content is about and generate a new one covering the same general topic with FICTIONAL data 
+to PROTECT PRIVACY. USE FAKE NAMES of locations, people, phone numbers, budget amounts, dates, among other sensitive 
+data that rather stays ANONYMOUS. Use ENGLISH OR GERMAN language for the new contents. The text must include title, author, issue date and 
+effective date. Make sure contents has a similar length as the original.
+'''
+
+To increase avoiding sensitive data:
+'''
+Analyse what the following text content is about and generate a new one covering the same general topic with FICTIONAL data 
+to PROTECT PRIVACY. USE FAKE NAMES of locations, people, phone numbers, budget amounts, dates, among other sensitive 
+data that rather stays ANONYMOUS. Use ENGLISH OR GERMAN language for the new contents. The text must include title, author, issue date and 
+effective date. Make sure contents has a similar length as the original. DO NOT MENTION MOERS.
+'''
+
+
+- Questions to evaluate the quality of the data and ability of a model to analyse it as they are are included.
+
+====The prompt for the Q/A:===
+
+Example:
+
+** Initial prompt **
+
+Analyse the following files provided. Then, generate a complex question about the contents and then indicate 
+the user where the answer can be found and mention any relevant section or chapter. Assume the files are hosted 
+online, so please provide a reference link. DO NOT mention the name of the document in the question itself. 
+AVOID the word DOCUMENT in the question.
+
+File 1  (name_of_file.txt):
+
+...
+
+File 2  (name_of_file.txt):
+
+...
+
+
+** Follow up prompt **
+
+Analyse again the two files provided. Then, generate a complex question about the contents and then indicate the 
+user where the answer can be found and mention any relevant section or chapter. Assume the files are hosted online, 
+so please provide a reference link. DO NOT mention the name of the document in the question itself. 
+AVOID the word DOCUMENT in the question.

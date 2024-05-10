@@ -1,0 +1,212 @@
+An Issue Date of the Kunze
+Title of the People of Wetter
+Effective Date of the Brunner
+II/Admin 02
+
+1
+Working Agreement of the City of Wetter
+on the Digitalization of Municipal Services and Processes
+
+Between the Mayor of the City of Wetter and the Staff Council, the following working agreement is concluded in accordance with §70 LPVG NRW:
+
+Contents
+1
+Preamble ......................................................................................................................... 2
+2
+Objective ......................................................................................................................... 2
+3
+Scope ................................................................................................................................ 2
+4
+Subject Matter ................................................................................................................. 2
+5
+Social Responsibility ........................................................................................................ 2
+6
+Information and Involvement of Employees .................................................................. 3
+7
+Information and Involvement of the Staff Council and the Disabled Persons' Representation ........................................................................................... 3
+8
+Data and Personal Protection ......................................................................................... 3
+9
+Health Protection, Occupational Safety and Workplace Design ................................... 4
+10
+Qualification and Training ............................................................................................. 4
+11
+Rights of the Staff Representation and the Disabled Persons' Representation .......... 5
+12
+Effective Date ................................................................................................................ 5
+
+
+
+II/Admin 02
+
+2
+
+1
+Preamble
+The development towards a digital municipality is a long-term process that requires the continuous development of administrative processes and structures. Internal administrative processes as well as processes towards citizens must be modernized, largely free of media breaks, and designed barrier-free in accordance with legal requirements. The advancing digitalization of work processes also requires a changed administrative culture, which must be jointly developed.
+The administration and the Staff Council see the obligation and have the will to shape the introduction and application of municipal digitalization offerings in accordance with the social needs of the employees and to involve them in the design of digitized work processes. The employees' personal rights will be protected, and the requirements of labor and health protection will be observed taking into account the regulations of the staff representation.
+2
+Objective
+The digitalization of municipal services and processes serves to make internal and cross-administrative work, information, and communication processes more effective, efficient, transparent, and citizen-friendly through the use of technology. The objective of this framework agreement is to agree on accompanying regulations and principles in order to shape the implementation of corresponding offerings and processes at the City of Wetter also in the interest of the employees and to ensure adequate working conditions.
+3
+Scope
+This working agreement applies to all employees of the departments as well as other organizational units and institutions (hereinafter referred to as "organizational unit(s)") of the City of Wetter, unless special regulations have been agreed upon.
+4
+Subject Matter
+This working agreement regulates the framework conditions for the introduction of new procedures, application solutions, and information and communication technologies within the scope of municipal digitalization measures. The same applies to significant changes in the used information and communication technologies, as well as in case of specific cases in already existing regulations and used systems, regardless of the aforementioned changes.
+5
+Social Responsibility
+In connection with measures of municipal digitalization, there will be no operational layoffs. The City of Wetter commits to maintaining the current job classifications.
+II/Admin 02
+
+3
+6
+Information and Involvement of Employees
+(1) In particular, the directly affected employees will be informed by the heads of the organizational units about objectives and impacts of digitalization measures in a timely, continuous, and comprehensive manner, and will be trained in electronic work processes and procedures so that they can recognize the intended objectives and contribute ideas for both development and concrete implementation.
+(2) The heads of the organizational units affected by digitalization measures are obliged to promote the involvement of employees in an appropriate manner as early as possible (e.g. through the formation of working groups) and to inform both the Staff Council and the Digitalization Task Force about the initiated measures. In the case of work processes being put into production or new process modules being introduced, there will be a test and pilot phase, unless operational reasons do not allow for this. Exceptions will be agreed upon between the administration and the Staff Council.
+7
+Information and Involvement of the Staff Council and the Disabled Persons' Representation
+The Staff Council is to be informed in a timely and comprehensive manner by the Digitalization Task Force - if necessary, in coordination with the respective organizational unit - to perform its tasks. Formal participation procedures under the LPVG are not affected by this.
+Prior to making decisions on projects that have implications for mandatory involvement measures, the Staff Council will be informed in a timely and continuous manner. Necessary documents must be submitted to them. The Staff Council must also be informed about the formation of working groups that serve to prepare such decisions and can participate in an advisory capacity.
+For the Disabled Persons' Representation, the above-mentioned regulations apply accordingly if disabled or equivalent employees are affected.
+8
+Data and Personal Protection
+(1) The design of IT systems and procedures will be conducted in accordance with applicable data protection regulations. In accordance with the principles of data minimization, purpose limitation, and the principle of minimal authorization, the collection and processing of personal data will be limited to what is legally permissible and necessary. Furthermore, the use of data will only take place within the framework of the agreed-upon purposes and legal provisions.
+In addition, the rights of use and access to personal data will be restricted to persons who require this data to fulfill their tasks or have a right to access it as directly affected clients. The transfer of data to third parties will be based on the General Data Protection Regulation (GDPR), the Data Protection Act of North Rhine-Westphalia (DSG NRW), or any other special legal regulations.
+(2) Evaluations of personal data are only allowed in anonymized or - if a re-identification of the data to individuals is necessary - pseudonymized form (Art. 4 Para. 5 GDPR). Evaluations in connection with measures that become necessary due to violations of labor or occupational law will be exempt from this. They will be agreed upon with the Staff Council in advance. If procedures for pseudonymization are used, the measures for pseudonymization (including the security of the pseudonymization key) as well as the necessity, conditions, and procedures for re-identification must be explained.
+II/Admin 02
+
+4
+(3) Data and knowledge acquired contrary to the regulations of this working agreement must not be used. Individual performance and behavior monitoring will not take place.
+9
+Health Protection, Occupational Safety, and Workplace Design
+(1) The legal and collective bargaining regulations regarding occupational safety as well as the legal obligations of the employer with regard to occupational medical care, health protection, risk assessment, and workplace design must be taken into account when implementing digitalization measures.
+(2) The current screen workstations1 of the municipality satisfy the legal requirements. Nevertheless, the administration is prepared in individual cases, upon the creation of pure screen workstations associated with digitalization measures, to install height-adjustable desks and, if necessary, screen brackets. A prerequisite is a duly substantiated application from the relevant organizational unit and the internal availability of budgetary resources.
+(3) The organization of work tasks must pay particular attention to reducing risks associated with screen work, mobile electronic work, and monotonous activities. If the creation of pure screen workstations cannot be avoided, and the activity at the screen workstation requires almost constant eye contact with the screen, the work of employees must be organized by their immediate superior so that there is an opportunity for short interruptions while working at the screen every hour. The interruption times may not be combined and may not be scheduled at the beginning or end of the employee's daily working hours. These requirements must be reconciled with the operational needs in practice.
+(4) The need for the use of two monitors while working on a file and the respective specialized procedure for the activity manager has been shown to be necessary due to the corresponding largely giving up of written materials. This necessity must be reconciled with the internal availability of budgetary resources in practice.
+10 Qualification and Training
+(1) General qualification requirements arising from digitalization must be determined, and appropriate training concepts must be developed for this purpose – taking into account modern, including digital, teaching and learning methods and technologies – by the Infrastructure Department in collaboration with the respective organizational unit and the Digitalization Task Force. The general objective of qualification is to enable employees to satisfy new work requirements in an efficient and healthy manner.
+(2) Training concepts for IT systems should teach not only a basic understanding of digital, media-break-free process flows (digital competence), but also knowledge of system handling, basic knowledge of the business processes and work organization, knowledge of ergonomic configurations and operating options, as well as knowledge of relevant safety technical and data protection aspects (issues, legal provisions, measures, and behavioral guidelines). Qualification measures for IT systems must be developed and accompanied by the Infrastructure Department in collaboration with the respective organizational unit in a timely manner before their implementation. Fortification measures related to health promotion must also be developed and offered in conjunction with measures by the Infrastructure Department.
+ 
+II/Admin 02
+ 
+5
+11 Rights of the Staff Representation and the Disabled Persons' Representation
+The statutory participation rights of the Staff Representation and the Disabled Persons' Representation remain unaffected by this working agreement.
+12 Effective Date
+This working agreement will take effect on 01.04.2019. It can be terminated with a notice period of three months to the end of the month.
+
+Wetter, 14.03.2019
+Genehmigt durch: 
+
+ 
+
+Genehmigt durch: 
+Großmann
+Infrastrukturabteilung
+
+Oberbürgermeister
+ Dornbusch
+ Vorsitzender des Personalrates
+
+ 
+ Currr
+Disabled Persons' Representation
+ 
+ An Issue Date of the Küster
+Title of the People of Giotzheim
+Effective Date of the Müller
+II/Leit 02
+
+1
+Management Agreement of Giotzheim Co.
+for Protecting the Privacy of Employees
+
+Between the CEO of Giotzheim Co. and the HR Director, the following management agreement is concluded in order to protect the privacy of employees and avoid any illegal use of sensitive data:
+
+Contents
+1
+Introduction..................................................................................................................... 2
+2
+Objective ......................................................................................................................... 2
+3
+Scope ................................................................................................................................ 2
+4
+Data Protection................................................................................................................ 2
+5
+Storage and Handling of Data ...................................................................................... 3
+6
+Information and Training............................................................................................... 3
+7
+Data Access .................................................................................................................... 3
+8
+Data Usage...................................................................................................................... 3
+9
+Confidentiality................................................................................................................. 4
+10
+Data Transmission and Disposal .................................................................................. 4
+11
+Right to Data Access ..................................................................................................... 4
+12
+Effective Date ................................................................................................................ 4
+
+
+
+II/Leit 02
+
+2
+
+1 
+Introduction 
+The digitalization of business processes and structures at Giotzheim Co. is a continuous development that requires the improvement and modernization of internal processes. In order to maintain the privacy of employees, it is essential to establish appropriate measures to protect sensitive data. This management agreement outlines the guidelines for handling employee data in a confidential and secure manner. 
+2 
+Objective 
+The objective of this agreement is to protect the privacy of employees and prevent illegal use of sensitive data, while still achieving efficient, effective, and transparent work processes through digitalization. 
+3 
+Scope 
+This management agreement applies to all employees of Giotzheim Co., as well as contractors and freelancers who handle sensitive data. 
+4 
+Data Protection 
+All processing and handling of sensitive data must comply with legal data protection regulations. Collection and processing of personal data should be limited to what is legally permissible and necessary. Sensitive data should only be used for the intended purpose and in accordance with legal regulations. 
+5 
+Storage and Handling of Data 
+Sensitive data must be securely stored and handled, ensuring confidentiality and protection against unauthorized access. Access to sensitive data must be restricted to qualified individuals who require the data to fulfill their tasks or have a legitimate right to access it. 
+6 
+Information and Training 
+All employees and contractors must be informed about the processing and handling of sensitive data in a timely and comprehensive manner. Regular training on privacy and data protection should also be provided. 
+7 
+Data Access 
+Access to sensitive data should be tightly controlled and limited to individuals who require it for their tasks or have a legitimate right to access it. Measures must be taken to prevent unauthorized access to sensitive data. 
+8 
+Data Usage 
+Sensitive data should only be used in accordance with the intended purpose and legal regulations. Individual performance and behavior monitoring will not be practiced. Data evaluations should be conducted in an anonymous or pseudonymous manner, with exceptions only agreed upon by the company's management and employee representatives. 
+9 
+Confidentiality 
+All employees and contractors must maintain strict confidentiality regarding sensitive data. This confidentiality remains valid even after the employment or contract termination. Employees must not disclose sensitive data to anyone outside of the company, except in cases where it is necessary for the fulfillment of their tasks. 
+10 
+Data Transmission and Disposal 
+Sensitive data must only be transmitted to third parties in accordance with legal regulations. Data must be securely disposed of when it is no longer necessary for the intended purpose. 
+11 
+Right to Data Access 
+Employees have the right to access their personal data and request corrections or deletions, as well as to object to the processing of their data in accordance with legal regulations. 
+12 
+Effective Date 
+This management agreement takes effect on 01.05.2019 and can be amended with a three-month notice period. 
+
+Giotzheim, 14.04.2019 
+
+Approved by:
+ 
+ 
+
+ 
+Approved by: 
+Weber 
+CEO of Giotzheim Co. 
+ 
+Müller 
+ 
+HR Director
+Informationsmanagement GmbH - 01.02.2020
+Designed by
+Maria S. Mustermann

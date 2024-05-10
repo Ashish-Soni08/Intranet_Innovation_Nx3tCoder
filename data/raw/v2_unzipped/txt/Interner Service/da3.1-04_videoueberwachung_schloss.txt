@@ -1,0 +1,111 @@
+Data Privacy Protection Agreement between the City of Belleville and the Employee Council for Video Surveillance 
+of the Exhibition Rooms at the Belleville Museum in the Belleville Castle
+Issue Date: 04/07/2019
+Effective Date: 04/10/2019
+Table of Contents:
+Preamble
+1
+Scope
+2
+Technical Information
+3
+Authorized Persons
+4
+Affected Individuals
+5
+Recording, Analysis and Deletion Periods
+6
+Storage Location of Data
+7
+Identification of Monitored Areas 
+8
+Right to Access 
+9
+Effective Date
+Preamble
+Video surveillances are a violation of the general right to privacy protected by Article 2(1) of the German Constitution. 
+In order to prevent property damage, it may be necessary to conduct video surveillance within the framework of exercising 
+housekeeping rights. Therefore, in order to minimize theft and vandalism, video surveillance will be installed in the 
+exhibition rooms at the Belleville Museum in Belleville Castle. Additionally, the obvious observation through video cameras 
+can have a deterrent effect.
+1
+Scope
+Video surveillance will be installed in both entry areas, stairwells, and all exhibition rooms. Excluded are the offices 
+(of the museum management and employees), social rooms (e.g. kitchen), storage rooms, and toilet areas.
+At the rear entry area (entrance for Belleville Theater), the outside wheelchair lift and the area immediately in front 
+of the door will be captured, as far as the area belongs to city property.
+In one of the exhibition rooms, weddings of employees of the registrar's office take place. During this time, no video 
+surveillance may take place in the wedding room and in the room designated for wedding registrations.
+For the duration of the weddings, the video surveillance/recording in the wedding and registration rooms will be 
+deactivated by the personnel of the museum responsible for video surveillance.
+Technical Information
+A DIG-AIS digital video recording system from DIGware with DayNight DOME cameras "Samsung SCC-B5368" (1/3" 
+color half-sphere camera) will be installed. Currently, there are 35 video cameras.
+The monitor used for observation is located in the ticket area at the entrance of the museum and cannot be viewed by 
+third parties. On the monitor, images from one to a maximum of 20 cameras can be displayed simultaneously.
+It is possible, with programming effort, to hide individual cameras or reduce the display to specific exhibition rooms.
+The video images are marked with the recording date and time, allowing for clear identification of the images.
+With the help of a filter, images from a specific day at a preset time can be accessed. The sequences can be paused 
+or played at an increased speed. It is possible to store individual scenes if necessary (for criminal prosecution, etc.) 
+on a computer or other storage medium. Otherwise, the storage and recording of video images will take place as 
+described in section 5.
+The cameras are firmly installed on walls or ceilings in a vandal-proof housing. Audio recordings do not take place.
+3
+Authorized Persons
+The only personnel authorized for visual control and access are employees of the educational service department 
+similar to a public enterprise – the Belleville Museum administration.
+4
+Affected Individuals
+Video surveillance will observe and record the museum visitors and, during Belleville Theater operation, also the 
+theater visitors.
+Museum employees are also affected while in the exhibition rooms or conducting activities there. The offices, storage 
+rooms, social rooms (e.g. kitchen), and toilet areas, as well as other areas not intended for the public, will not be 
+recorded.
+5
+Recording, Analysis and Deletion Periods
+The employees of the Belleville Museum will observe visitors in order to prevent theft and vandalism and to pursue criminal 
+prosecution, if necessary.
+The images/data will be stored in a “black box”, meaning it will only be viewed by authorized individuals 
+(museum personnel in the presence of a representative from the employee council and, if necessary, the police and a 
+representative from the insurance company) in the case of a damage incident; otherwise, it will be overwritten or deleted. 
+The storage period is 96 hours.
+In the event of damage, the respective sequence will not be overwritten or deleted, but stored on the computer or 
+other storage medium. The educational service department similar to a public enterprise – Belleville Museum will file a 
+report with the police and, if necessary, transfer the data. If the stored data is assigned and processed for a specific 
+individual, that individual will be notified. Notification may be withheld as long as the public interest in criminal 
+prosecution significantly outweighs the notification rights of the affected individual (Section 29b(3) North Rhine-Westphalia 
+Data Privacy Act).
+Evaluations for individual performance and behavioral monitoring of the deployed personnel are not permitted.
+6
+Storage Location of Data
+The computer and monitor are located at the checkout area of the entrance to the Belleville Museum. When employees 
+are absent, the entrances are locked and inaccessible to unauthorized individuals. The server is located in a locked server 
+cabinet.
+The data will be protected by the educational service department similar to a public enterprise – Belleville Museum in 
+such a way that it is impossible for unauthorized individuals to read, modify, delete, or steal the data stored on the data 
+carriers.
+Access to the computer is password protected. The password is only known to authorized personnel.
+7
+Identification of Monitored Areas
+The fact of video surveillance will be indicated by easily readable signs according to DIN 33450: "Graphic symbol for 
+indicating observation via optoelectronic devices" with the addition: "Video surveillance - City of Belleville" at the 
+entrances to the Belleville Museum.
+8
+Right to Access
+The following have the right to access while operations are ongoing:
+-
+the data protection officer within the framework of the powers granted under the North Rhine-Westphalia Data 
+Protection Act (DSG NRW)
+-
+the employee council within the framework of its powers granted under the North Rhine-Westphalia Employee 
+Representation Act (LPVG NRW).
+9
+Effective Date
+This service instruction shall come into effect on 04/10/2019.
+Belleville, 04/07/2019
+Signed                                                                           Signed
+Ballhaus
+Roggenkamp
+Mayor
+Employee Council Chairman
+3.1/04

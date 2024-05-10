@@ -1,0 +1,103 @@
+
+Title: Instruction Manual for Operation of Elevator Systems in Buildings of the Fictional City of Rottwalheim
+Author: M. Johnson
+Issue Date: 03/15/2021
+Effective Date: 04/01/2021
+
+1. Jurisdiction
+Irrespective of the general responsibility of the City Director as an organ,
+the Technical Building Office is responsible for all matters related to the operation and safety of elevator systems in city buildings.
+The central responsibility and thus the accountability lies with the Technical Building Office (Office 65).
+
+2. Duties of Elevator Operators
+In buildings with elevators that transport people, at least one elevator operator must be appointed. He/She is instructed to:
+1. Supervise the system
+2. Report any defects to the Technical Building Office and inform the Building Owner's Office *)
+3. Prevent further use of the system if it endangers employees or third parties due to defects
+4. Intervene if persons are trapped in the elevator due to malfunctions.
+The Building Owner's Offices *) must ensure that the elevator operator can be easily reached at all times while the system is ready for use.
+The operating instructions attached as Annex 1, which are displayed in every control room, must be followed by the elevator operator. Furthermore, the provisions of the Ordinance on Elevator Systems (Aufzugsverordnung - AufzV) in their respective version apply; an extract from the AufzV - § 19 - is attached as Annex 2.
+
+*)
+Building Owner's Offices are responsible for:
+a) School buildings
+Office 40
+b) Sports facilities
+Office 52
+c) Town halls
+Office 11
+Fractional Buildings/
+d) Central Library
+Office 42
+e) Fire Station Buildings
+Office 37
+
+3. Appointment of Elevator Operators
+The building management offices (Building Owner's Offices) must appoint employees from Office 65 to be trained as elevator operators. The training and subsequent examination by the expert must be arranged by the Technical Building Office, and any costs incurred will be covered by the Building Owner's Offices.
+The Building Owner's Offices may only appoint persons as elevator operators who have reached the age of 18 and have proven the necessary expertise for their tasks in an examination by the expert. Certificates of the examinations must be kept in the inspection book of the elevator system.
+
+4. Entry into Force
+This instruction manual shall enter into force with effect from 04/01/2021.
+Rottwalheim, 03/15/2021
+Signed,
+L. Smith
+City Director
+
+Annex 1
+Operating Instructions for the Elevator Operator
+Instruction Manual for the Operation of Passenger and Freight Elevators
+
+1. The elevator operator must regularly, but at least weekly, check that:
+a) the cab cannot move if a shaft door is open,
+b) a shaft door cannot be opened if the cab is not stopped within the permissible step height behind this door,
+c) the cab cannot move if the cab door is open,
+d) the cab comes to a stop in its end positions automatically,
+e) the brake is functioning,
+f) the emergency call system is working,
+g) the emergency brake switch is operational,
+h) the shaft wall on the access sides of the cab is not damaged for cabs without cab doors,
+i) the cab is lit while the elevator is in operation,
+k) the windows of glazed shaft walls and shaft doors are not damaged.
+The performed inspections must be documented by an inspection report (see sample below).
+
+2. The elevator operator must ensure that no foreign objects are stored in the shaft, motor, and roller room. He/She must also ensure that the maintenance and emergency access to the shaft as well as access to the motor and roller room are not obstructed.
+
+3. The elevator operator must ensure that the keys to the operating rooms of the elevator system for the control devices and for emergency unlocking are within reach and not given to unauthorized persons.
+
+4. When the system is out of service, the elevator operator must attach signs "Out of Service" to the shaft doors.
+
+Annex 1
+5. The elevator operator must report any defects to the Technical Building Office immediately.
+In the event of a hazardous condition, he/she must switch off the main switch (load breaker) and attach the signs "Out of Service" to the shaft doors. Shaft accesses with damaged doors or damaged door locks must also be secured against access.
+
+6. If the cab comes to a stop between the stops or by running over an end stop due to a malfunction, the elevator operator must switch off the main switch (load breaker) and communicate with trapped persons. He/She must use the designated facilities (e.g. hand crank, emergency lowering device) to move the cab to the next stop. The cab must not be moved beyond the stop due to the risk of the shaft door automatically unlocking.
+
+7. The elevator operator must ensure that:
+a) in case of danger, the emergency brake switch and emergency call system are activated,
+b) the cabs are evenly loaded, not overloaded, and loads are secured against shifting,
+c) the operating personnel, especially when transporting loads, are present in the control device area,
+d) safety and control devices are not used improperly.
+
+Sample Inspection Report:
+Inspection Report: Elevator No. ________________
+Date
+Control
+Name
+Remarks
+Reported
+Approved
+e.g.
+07/25/96
+Inspected
+H. Anderson
+1st floor door is stuck
+Office 65 H. Becker
+
+Annex 2
+§ 19 AufzV:
+1. The elevator operator must follow the operating instructions present in every control room (see Annex 1).
+2. As long as the elevator system is ready for use, the elevator operator must be easily reachable at all times.
+3. The time from the emergency call until the arrival of an elevator operator at the elevator must be less than 20 minutes. 
+-  -
+03/21
+ FILENAME \p I:\FCC\CC03-21.DOC
