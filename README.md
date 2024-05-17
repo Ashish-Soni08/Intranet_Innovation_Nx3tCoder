@@ -121,7 +121,7 @@ This section provides an overview of the data generation process, ensuring the c
 
 #### Data Directory Structure
 
-![Data Directory Structure](images/data_directory_structure.PNG)
+![Data Directory Structure](images/project_directory_structure.PNG)
 
 The directory contains various department-specific documents provided in `text file format`, such as mayor's office, education, public services, cultural events, finance, internal services, youth, schools and sports, digitalization, and building management, along with information about synthetic dataset and some evaluation questions.
 
