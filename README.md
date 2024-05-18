@@ -6,9 +6,9 @@ The [Project](https://n3xtcoder.org/intranet-innovation-empowering-staff-for-enh
 
 As the administration of the City of Moers seeks to meet the evolving needs of its approximately 104,000 residents, the municipal intranet emerges as a pivotal platform for information dissemination and management. Improving the intranet is essential for enhancing the productivity and satisfaction of municipal employees, which in turn will lead to faster, more efficient, and effective services for the citizens of Moers. The challenge is to transform the municipal intranet into a more user-friendly, interactive, and intelligent platform that excels in understanding and generating answers, thereby improving the administration's knowledge base and search capabilities.
 
-**GOAL:** Improve municipal intranet search experience
-**Objective:** Optimise the intranet search capabilities, leading to faster and more precise information retrieval for increased productivity and enhanced value of the intranet as a central communication medium to optmize the performance and satisfaction of administrative staff.
-**Metric:** Projected acceptance rate of search results.
+- **Goal:** Improve municipal intranet search experience
+- **Objective:** Optimise the intranet search capabilities, leading to faster and more precise information retrieval for increased productivity and enhanced value of the intranet as a central communication medium to optmize the performance and satisfaction of administrative staff.
+- **Metric:** Projected acceptance rate of search results.
 
 ### Impacted People
 
@@ -210,4 +210,4 @@ Under the hood, the Retrieval-Augmented Generation (RAG) application uses the fo
 - Vector database: [Qdrant](https://qdrant.tech/)
 - Large Language Model (LLM): `gpt-3.5-turbo` via [OpenAI](https://platform.openai.com/docs/models/gpt-3-5-turbo)
 - Orchestration framework: [LlamaIndex](https://www.llamaindex.ai/)
-- App framework: [Streamlit](https://streamlit.io/)
+- App framework: [Gradio](https://www.gradio.app/)
