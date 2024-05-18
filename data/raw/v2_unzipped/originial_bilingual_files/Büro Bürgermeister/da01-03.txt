@@ -1,0 +1,193 @@
+13 
+ 
+Eine neue DSFA ist durchzuführen, wenn die Bedingungen der Verarbeitung sich wesentlich 
+ändern. 
+
+Title: Comprehensive Data Protection Guidelines for Fictional City of Amber
+
+Author: A. Silverberg 
+
+Issue Date: 03/01 
+
+Effective Date: 03/15 
+
+Content: 
+
+I. General Information 
+
+1. Legal Basis 
+2. Purpose 
+3. Scope 
+4. Definitions 
+
+II. Jurisdictional Regulations 
+
+5. Principle 
+6. Decentralized Data Protection Function (Data Protection Specialists) 
+7. Centralized Data Protection Function (City Data Protection Officer) 
+
+III. Handling of Personal Data 
+
+8. Data Processing 
+9. Data Sharing within the City Administration 
+10. Data Transfers to Third Parties 
+11. Rights of Individuals 
+12. Information Obligations 
+13. Dealing with Data Breaches 
+14. Processing Data for Third Parties 
+15. Register of Processing Activities 
+16. Data Protection Impact Assessments 
+
+IV. Implementation 
+
+17. Effective Date 
+
+Attachment I: Definitions of Terms 
+Attachment II: Overview of Tasks and Responsibilities 
+Attachment III: Data Protection Impact Assessment 
+
+ 
+
+I. General Information 
+
+1. Legal Basis 
+
+The basis for these guidelines is:
+
+- The Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation - GDPR). 
+
+- Supplementary general and sector-specific data protection regulations of the Federal Republic of Amber in their respective applicable versions. 
+
+2. Purpose 
+
+The purpose of these guidelines is to ensure the lawful processing of personal data, including data security, by the Fictional City of Amber. This is to protect the rights of individuals to decide on the disclosure and use of their data under applicable law (right to informational self-determination). 
+
+3. Scope 
+
+These guidelines apply to all city units (departments, divisions, quasi-independent organizations, etc.) that process personal data themselves or through third parties. 
+
+4. Definitions 
+
+The definitions used in these guidelines are based on those stated in the laws that form its basis (see 1.). Essential definitions are listed in Attachment I.
+
+II. Jurisdictional Regulations 
+
+5. Principle 
+
+The supervisors and employees are responsible for complying with the applicable data protection regulations in relation to their jurisdiction and are responsible for: 
+
+- collecting personal data;
+- creating, managing, leading, utilizing, or destroying files or records containing personal data; 
+- sending documents or processes;
+- providing information or granting access. 
+
+6. Decentralized Data Protection Function (Data Protection Specialists) 
+
+(1) Within their respective responsibilities and duties for data protection, the heads of the organizational units (see Section 3.) appoint one or more data protection experts. If no one is appointed, the function falls to the head of the unit. 
+
+(2) In decentralized responsibility, the following tasks are assigned, among others: 
+
+- Creation of a register of the processing activities conducted by the organizational unit; 
+- Conducting data protection impact assessments; 
+- Developing internal regulations regarding data protection; 
+- Supporting and informing the city data protection officer in all matters related to data protection; 
+- Cooperating and communicating with the state commissioner for data protection and freedom of information in Amber (LDI Amber); 
+- Providing statements on inquiries from the city data protection officer and cooperating with public inquiries, unless they were directed directly to the organizational unit; 
+- Deciding on the admissibility of data transfers to third parties within and outside the Fictional City of Amber; 
+- Reporting data breaches to the City Data Protection Officer after consulting with them and reporting to the affected party according to Art. 33 and 34 GDPR, after conducting a risk assessment. 
+
+7. Centralized Data Protection Function (City Data Protection Officer) 
+
+(1) The mayor appoints the city data protection officer and a deputy. They report directly to the mayor in this function and are independent in their actions. 
+
+(2) The city data protection officer is responsible for answering all questions relating to data protection. They have, according to Art. 39 GDPR, the following tasks and powers: 
+
+- Informing and advising the management board on fundamental data protection issues; 
+- Informing, advising, and supporting the organizations mentioned in Section 3, including the staff council, on data protection matters; 
+- Cooperation with the LDI Amber; 
+- Consulting the organizational units (Section 3) - upon request - in relation to data protection impact assessments and monitoring their implementation according to Art. 35 GDPR; 
+- Participating in projects with data protection-related components, particularly the creation of internal regulations, bylaws, and forms that process personal data; 
+- Assisting with drafting contracts that involve processing personal data (data processing agreements); 
+- Monitoring organizational units (Section 3) to ensure compliance with data protection regulations (spot checks and cause-based review); 
+- Participating in internal working groups and representing the city at external working groups and committees with data protection-related matters; 
+- Developing training concepts and conducting training on data protection issues, if necessary in collaboration with other parties; 
+- Organizing and coordinating training for employees on data protection topics, if necessary in collaboration with other parties. 
+
+(3) The data protection officer has the right to inspect all areas, files and records, documents and databases. As a rule, access to personnel files requires the consent of the affected individual. The following exemptions apply: 
+
+- Files protected by special confidentiality legislation in the provision of personal and educational assistance according to Art. 65 Social Security Code VIII; 
+- The premises of the staff council. 
+
+(4) If the data protection officer detects violations of data protection regulations, they may be challenged and the affected organizational unit may be asked to provide a statement. The complaint may include recommendations for resolving the deficiencies and improving data protection. In case of violations of employee data protection, the data protection officer must also inform the staff council. 
+
+(5) The organizational unit must inform the data protection officer of all instances relating to data protection, giving them timely and comprehensive information in all cases. 
+
+(6) The separation of tasks between the decentralized data protection specialist and the city's data protection officer is outlined in the table in Attachment II. 
+
+III. Handling of Personal Data 
+
+8. Data Processing 
+
+(1) Data processing includes, according to Art. 4 (2) GDPR, the collection, acquisition, organization, ordering, storage, adaptation, modification, retrieval, inquiry, use, disclosure by transmission, dissemination, or any other form of provision, match, link, restriction, erasure, or destruction of personal data. 
+
+(2) Data processing is only permissible if a legal provision allows it or the individual concerned has given their consent. 
+
+(3) Only necessary data for fulfilling tasks may be processed. The collection and storage of data as a "precautionary measure" is not allowed. 
+
+(4) Data processing is subject to the principle of purpose limitation (Art. 5 (1) GDPR). Personal data may only be processed for the purpose for which it was collected. It may not be further processed in a manner incompatible with this purpose, unless there is a legal basis or the consent of the individual concerned. 
+
+9. Data Sharing within the City Administration 
+
+Data sharing within the Fictional City of Amber is subject to the same data protection laws. 
+
+10. Data Transfers to Third Parties 
+
+Before transmitting personal data to third parties, the lawfulness of the transfer must be verified. If no specific laws apply, the data protection laws of Amber's federal republic are determinative. 
+
+11. Rights of Individuals 
+
+(1) Upon request, individuals have the right to receive confirmation on whether or not their personal data is being processed and what data is being stored. They have a right to information about their stored data, the purpose of the processing, the source of the data, and the recipients of any transfers, and, if possible, the planned duration of storage (Art. 15 (1) GDPR). Individuals should also be informed of their right to file complaints with the supervisory authority. The responsible organization unit is responsible for providing individuals with this information if their request relates to that specific unit. If the request includes multiple units, the city's data protection officer manages and coordinates the response. 
+
+(2) Personal data can be corrected according to Art. 16 GDPR if it is found to be incorrect. According to Art. 17 GDPR, personal data must be erased without delay if it is no longer necessary for its original purpose, if the individuals have revoked their consent, objected to the processing, or if the data is unlawfully processed. Obligation to delete data also applies if it is required to comply with statutory obligations. 
+
+12. Information Obligations 
+
+(1) In regards to natural persons, transparency regarding the processing of personal data is necessary, including how the data is collected, used, shared, or otherwise processed and the extent to which personal data will be processed in the present or the future. 
+
+(2) To ensure transparency, the level of accessibility, and clarity and the use of clear and simple language must be adhered to in all information and communication related to data processing. 
+
+13. Dealing with Data Breaches 
+
+(1) In the event of a violation of the protection of personal data (data breach), there are reporting requirements according to Art. 33 and 34 GDPR. In the event of a data breach that poses a risk to the rights and freedoms of individuals, the violation must be reported without delay and within 72 hours to the responsible internal data protection person and the supervisory authority of Amber (Art. 33 GDPR). In the event of a high risk, the affected individual must also be notified without delay (Art. 34 GDPR). 
+
+(2) There is a high risk to the rights and freedoms of individuals if the following consequences may occur: discrimination, identity theft or fraud, financial losses, unauthorized de-pseudonymization, damage to reputation, loss of confidentiality for data considered confidential, or other significant economic or societal disadvantages. 
+
+(3) Assessments of risk and reporting according to Paragraph 1 are under the decentralized Data Protection responsibility (Section 6). 
+
+(4) Any data breaches must also be reported to the city's data protection officer. 
+
+14. Processing Data for Third Parties 
+
+If the Fictional City of Amber processes personal data on behalf of third parties, data protection regulations are also to be followed here. 
+
+15. Register of Processing Activities 
+
+All actions involving the processing of personal data must be recorded in a register by the organizational units (Section 3). Upon request, this register must be made available to the supervisory authority. 
+
+16. Data Protection Impact Assessments 
+
+(1) A comprehensive examination is needed before any planned processing of personal data where there is a high risk (strongly including data according to Art. 9 GDPR) to the rights and freedoms of natural persons due to the nature, scope, circumstances, and purpose of the processing. Data Protection Impact Assessments (DPIA) are required in these circumstances. Once internal guidelines have been adopted, the threshold for suspicion will be lowered to "possibly required." If it is determined that a DPIA is required, the overall processing is put on hold until all secondary evaluations are completed. If the current status is "not required," the organization unit is responsible for documenting the Evaluation (including the reasons for deviating from a DPIA) granted for this particular action. 
+
+(2) While conducting a DPIA, the risks faced by individuals must be assessed. If the DPIA is required, the organization unit is responsible for notifying the institution's Data Protection officer. 
+
+(3) The necessary content of a DPIA is outlined in Attachment III. 
+
+IV. Implementation 
+
+17. Effective Date 
+
+These guidelines are effective as of 03/15/AM2020. 
+
+City of Amber, 03/14/AM2020 
+Signed, 
+A. Silverberg, Mayor

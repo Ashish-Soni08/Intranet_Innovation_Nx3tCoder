@@ -1,0 +1,87 @@
+Dienstanweisung
+of the fictional city of Hemwick for information and communication technology
+Preamble
+The department for information and communication technology (ITC) at the city administration of Hemwick is responsible for information and communication technology. The technology-assisted information processing is operated in accordance with the regulations of the municipal data processing center of Lower Rhine (MDPC) and the additional agreements issued in accordance with the regulations of the municipal data processing center. The information technology infrastructure (ITIS) agreed upon by the members and users of the MDPC is used. This official instruction sets out principles that must be observed when using information and communication technology. Regardless of the individual regulations that follow, the municipal data protection officer must be involved early on in accordance with the responsibilities of Section 32 a of the Act for the Protection Against Misuse of Personal Data in Data Processing (North Rhine-Westphalia Data Protection Act - DSG NW -) in its current version. The information or involvement of the personnel council is governed by the provisions of the State Personnel Representation Act. As a local agreement, it is understood that the staff council will be informed in a timely manner of administrative planning projects and that the collective agreement on "screen workstations" with the staff council is taken into account. The information to the person responsible for occupational safety is governed by the applicable regulations of the Occupational Safety and Health Act (ASiG).
+1.0 Basics
+The regulations contained in this official instruction comply with the obligation of Section 10 of the Act for the Protection Against Misuse of Personal Data in Data Processing. According to this, technical and organizational measures must be taken to ensure data processing in compliance with the provisions of the North Rhine-Westphalia data protection law. This official instruction regulates data protection and data security when using computers as part of technology-assisted information processing. Computers within the meaning of this official instruction are the end devices set up at the workstations, mobile computers (laptops, notebooks, handhelds), workstations as well as central computer systems and the central computer at the MDPC.
+2.0 Data secrecy
+Users of the computers are prohibited from processing or disclosing data for purposes other than those related to the respective lawful tasks.
+3.0 Data security
+The data processed when using information and communication technology must be protected against data loss due to technical malfunctions or incorrect operation, as well as against data misuse by unauthorized persons, through technical and organizational measures. The department is responsible for their data and the programs with which this data is processed.
+3.1 Access protection
+Access protection includes measures to ensure that only authorized persons have exclusive access to the data subject to their authorization. For this purpose, the security functions provided by the operating systems of the computer systems and, if applicable, special security programs are used.
+3.1.1 User-ID
+Users of the computers are given a user identification (ID) by the ITC department. The users must log on to the computers with their user ID. In addition to the ID, the users are provided with one or more secret passwords. Access to functions of the computers and the use of procedures of the Municipal Data Processing Center Lower Rhine is regulated by the assignment of these secret passwords. The users must not disclose the assigned password(s) to any other person.
+Within certain programs (e.g. word processing) and/or functions, the access options of the employees can be further regulated. The department manager must inform the ITC department of necessary further access protection regulations and these will be set up within the available security functions.
+Within the provided directory structure for document objects, subdirectories including the necessary authorization control can be set up by the departments themselves.
+The admission of new users or the expansion of the access possibilities of already registered users to further functions in the available programs and procedures must be requested in writing by the respective department manager from the ITC department. If access to data from other departments (e.g. information procedure on residents, financial information) is requested, the authorization will only be granted after the responsible department has issued its approval.
+Upon request, the data access rights granted to the employees must be disclosed to the department for financial audit by the ITC department.
+If employees no longer require the assigned password (e.g. due to relocation or change in assignment), this must be reported immediately by the department manager to the ITC department so that the password is deleted from the system. The access administration for the procedures at the MDPC is carried out by employees of the ITC department (security manager). These are appointed by the mayor.
+3.1.2 Minimum requirements for passwords
+The passwords assigned by the ITC department are temporary passwords. The security functions of the operating systems require the employees to change the password after their initial login. The passwords are therefore only known to the respective user. The validity of the passwords is 60 days.
+Passwords must have a minimum of eight characters. The distribution of trivial passwords (e.g. 11111111 or abababab) is prohibited. Within the security options of the operating systems, the distribution of such passwords is restricted as much as possible.
+Further regulations for password distribution are possible, and employees will be notified accordingly.
+Passwords may be changed by the users at any time. In the event that the confidential password becomes known to third parties, the employees are obligated to immediately assign a new password themselves. Employees will be informed of this obligation when the password is first assigned and must sign the attached declaration.
+3.1.3 Password protection for desktop computer programs
+If PC programs that allow access protection through password assignment are used at desktop computers, the password protection of the program must be activated. The password must be changed at regular intervals, at the latest after 60 days. The valid passwords for accessing PC programs must be kept in a list within the respective department in order to allow authorized access at all times. The list of passwords must be kept in a safe place.
+3.1.4 Other technical measures
+Drives (e.g. disk drives, CD-ROM or USB interfaces) are generally deactivated at workstations.
+If desktop procedures require the use of a drive, the activation will be carried out after the necessity has been verified by the ITC department. Further regulations on the use of drives may be set by the ITC department in individual cases.
+Drives may only be used for their intended purpose.
+3.2 Access protection
+Access protection includes measures to ensure that access to data processing equipment is denied to unauthorized persons.
+3.2.1 Rules of conduct
+Rooms in which computers are located must be locked when employees are absent.
+When the user is away from the workstation, the computer must be switched off. If the absence is brief, it is sufficient to close the currently active program and put the computer in a standby mode that requires a password before being used again.
+If print jobs are printed outside of working hours via the desktop printer, appropriate measures must be taken to prevent unauthorized persons from accessing the data. In particular, the rooms must be locked at the end of the working day, and the desktop computer must be locked by blocking the keyboard.
+3.2.2 Central machine rooms
+Machine rooms for central computers must be locked.
+During service and repair work in the machine room, the technicians must be supervised by an employee for the duration of the work.
+4.0 Hardware changes to desktop computers
+Hardware changes to desktop computers or to other data processing devices, such as the installation of cards, the connection of printers, modems, or other peripheral devices, are not permitted without approval.
+Changes to the computer system will only be made after the necessity has been verified by the ITC department.
+5.0 Data storage
+Data must be stored on central computers/servers within the local computer network of the city of Hemwick. The only exceptions are data processed in procedures of the Municipal Data Processing Center Lower Rhine. In addition, data generated in PC programs on workstations may also not be included in the central data storage. For reasons of data security and data protection, central data storage is to be pursued. Personal data must not be stored on local hard drives of desktop computers. In justified cases, exceptions can be made by the ITC department after secure access mechanisms have been established.
+6.0 Data backup
+Data backup includes technical measures to ensure that processed data is protected against loss due to technical defects, incorrect operation, and data misuse. The relevant systems of the department are responsible for carrying out the backup.
+6.1 Principle of central data backup
+Data stored in central computers are backed up by the ITC department's system operators.
+Excepted from central data backup are data processed in procedures of the Municipal Data Processing Center Lower Rhine. These are backed up by the Municipal Data Processing Center Lower Rhine. In addition, data stored locally on a desktop computer or on a decentralized server and that cannot be included in the central backup of the ITC department is also protected.
+Data backups must be planned in such a way that there is a backup data set from the previous day available on the backup media. Records must be kept on the backups.
+6.2 Safekeeping of backup data carriers
+The backup copies must be properly locked and stored outside of the machine room. The backup data of the entire data stored on central computers and the copies of the daily backups must be kept available at least until the next backup of the central computers has been completed.
+6.3 Storage of data on desktop computers and decentralized servers
+Data generated with programs on desktop computers must not be stored on the local desktop computer. The data must be stored on central computers. If decentralized data storage cannot be avoided, the departments are responsible for data backups. They must be planned in such a way that there is a backup data set available on the backup media from the previous day.
+6.3.1 Establishment of a backup concept
+The type and manner of the backup will be determined by the ITC department in each individual case. A necessary backup drive will be installed according to the requirements mentioned in point 3.1.4. The department is responsible for procuring the necessary data carriers and for proper backup. A record must be kept of any backups performed.
+6.3.2 Storage of data carriers in departments
+Backup copies must be kept in a reliable way in the departments. Data carriers that are no longer needed or are defective must be returned to the ITC department. The loss of data carriers must be immediately reported to the ITC department.
+7.0 Program use
+Only programs that have been released for production in a release procedure may be used. Standard procedures such as word processing, spreadsheet calculations, presentations, and office functions (electronic calendar, email, etc.), are available to all users on computers within the local network of the city of Hemwick.
+7.1 Implementation of new programs and data processing procedures
+The introduction of new programs and data processing procedures requires approval from the ITC department. The following principles must be observed:
+Standard programs and data processing procedures used must have been passed for production by the Municipal Data Processing Center Lower Rhine.
+The release by the MDPC also includes an examination of programs and procedures that serve to automate the financial management and also an examination by the financial audit of the MDPC. Procedures that require a prior check by the municipal data protection officer are subject to this same verification.
+The MDPC ensures that the programs used have been released for production.
+It may be possible to deviate from the above principle if a program is not (or is not expected to be) offered by the MDPC for an extended period. In this case, custom programs and procedures may be used. For these applications, a separate release procedure must be carried out before putting it into production.
+Approval is granted by the ITC department after involving the relevant department and the financial audit (if necessary).
+In the approval procedure, the department confirms the proper processing of the data following a process test. When processing personal data, the responsible department must ensure that the municipal data protection officer is involved early on for the prior check.
+Programs required for automating financial management are checked by the financial audit according to Section 103 of the GO.
+If released programs are changed in terms of their program logic, a new release must be carried out for the changed program.
+7.2 Prohibition of installing and using non-approved programs
+Use of procedures and programs other than those approved in accordance with paragraph 7.1 for performing assigned tasks is not permitted.
+The installation of data or programs on a computer without the approval of the ITC department is prohibited.
+7.3 Prohibition of using programs for private purposes
+The programs and procedures provided are for dealing with assigned, professional tasks. The use of programs and procedures for private purposes is not permitted.
+7.4 Use of private computers
+The use of private computers for carrying out professional tasks is not allowed without prior approval from the ITC department. In justified exceptional cases, permission can be obtained to carry out professional tasks on a private computer, even outside of the official buildings. Approval may only be granted if data protection and data security can be ensured on the private computer. Arrangements will be made in individual cases. Personal data may not be stored or processed on private computers.
+8.0 Creation of files
+The creation of files is only permitted in compliance with the provisions of data protection. When storing personal data, the admissibility of storage and usage by the department must be verified. Reporting obligations pursuant to Section 8 of the North Rhine-Westphalia Data Protection Act must be followed.
+9.0 Effective date
+This official instruction comes into force on 01/01/2009.
+Hemwick, 01/06/2009
+signed
+Ballhaus
+Mayor
+
+Note: The city of Hemwick and the dates mentioned are completely fictional and do not exist in real life. Any similarity to actual locations or events is purely coincidental.

@@ -1,0 +1,49 @@
+
+Dienst Instruction 
+on the Use of the Postage Machine 
+in the Post Office of the City of Ravenwood
+1.
+Scope of Application
+This service instruction applies to the post office located in the town hall and assigned to Department 3 - Internal Service. The general supervision is the responsibility of Department 3.5 - Central Services.
+2.
+Operation in the Field of Remote Accounting
+2.1
+A postage machine with remote accounting is used in the post office.
+2.2
+Outgoing mail intended for external delivery by the departments∗ will be centrally franked in the post office. The necessary postage and smooth operation are obtained via remote accounting, depending on consumption.
+2.3
+The staff of the post office will handle the remote accounting. Access to the remote accounting is possible with a code that is only known to authorized personnel.
+2.4
+The remote accounting charges made will be recorded in the control book through the weekly quota overview.
+2.5
+The postage credits obtained will be debited from the postal account via direct debit. Immediately after obtaining a postage credit, the Central Services Department will issue a corresponding payment order.
+3.
+Handling of the Postage Machine by Post Office Staff
+3.1
+The postage machine is to be used exclusively by the staff of the post office for franking.
+3.2
+The staff of the post office will be instructed in the use of the postage machine.
+3.3
+Franking of private mail is not allowed.
+3.4
+At the end of each work week, the post office staff must complete a weekly summary. The current meter reading of the postage machine is to be recorded by printing out the quota overview and attaching it to the control book.
+The control book is to be submitted regularly – at least once a month - to the Central Services Department.
+4.
+Cost Centers
+4.1
+In order to accurately track postal fees for individual consumers (e.g. departments, cost centers), cost centers will be established. These will be determined by Department 3.5. It will be ensured that the post office staff always has the most recent version of the cost center overview.
+4.2
+Establishment, modification, and deletion of cost centers is only possible with a code known to authorized post office staff.
+4.3
+Before franking, the corresponding cost center is to be entered by the post office staff.
+4.4
+If needed, but at least once a year, the cost centers will be evaluated. The determined postal fees will be invoiced to the respective areas by Department 3.5.
+5.
+Effective Date
+This service instruction is effective immediately.
+Ravenwood, April 20th, 2015
+Smith
+Mayor
+∗ As long as there are other organizational forms within the administration, the regulations of this service agreement also apply to them accordingly.
+3.5/04
+F5.6/14
