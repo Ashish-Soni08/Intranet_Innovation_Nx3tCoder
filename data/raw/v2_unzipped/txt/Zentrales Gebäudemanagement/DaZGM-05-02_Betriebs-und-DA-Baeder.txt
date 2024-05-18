@@ -1,11 +1,3 @@
-Anlagen:
-A
-Belehrung – Beispiel zu Ziffer 5.2 (1)
-B
-Gesetze und Rechtsvorschriften (Übersicht)
-C
-Arbeitsunterlagen
-Betriebs- und Dienstanweisung für das Personal in den Bädern der Stadt XYZ
 (Protection of privacy for anonymous locations, people, phone numbers etc.)
 Title: Operation and service instructions for employees in the pools of the city of XYZ
 Author: XYZ City Council, Department of Sports
