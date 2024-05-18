@@ -347,8 +347,6 @@ The original multilingual files are kept separately in the [original_bilingual_f
     der jeweiligen Dateien möglich. Die Vernichtung der elektronischen Unterlagen ist in den 
     Papierunterlagen zu dokumentieren.  
     
-    
-
     Dokumentation zur Regelung von ePayment-Zahlungen bei Bayer 
     (Version 1.0) 
     
