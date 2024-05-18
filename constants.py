@@ -7,10 +7,10 @@ config = dotenv_values(".env")
 # Jina
 JINA_API_KEY: str = config["JINA_API"]
 
-# # LangChain(Langsmith)
-# LANGCHAIN_API_KEY: str = config["LANGCHAIN_API"]
-# LANGCHAIN_URL: str = config["LANGCHAIN_ENDPOINT"]
-# LANGCHAIN_PROJECT: str = config["LANGCHAIN_PROJECT"]
+# LangChain(Langsmith)
+LANGCHAIN_API_KEY: str = config["LANGCHAIN_API"]
+LANGCHAIN_URL: str = config["LANGCHAIN_ENDPOINT"]
+LANGCHAIN_PROJECT: str = config["LANGCHAIN_PROJECT"]
 
 # OpenAI
 OPENAI_API_KEY: str = config["OPENAI_API"]
