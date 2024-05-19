@@ -21,34 +21,45 @@ As the administration of the City of Moers seeks to meet the evolving needs of i
 ```bash
 # python version -> 3.10.13
 python -V 
+```
 
+```bash
 # create a environment named -> google-ai
 python -m venv intranet-ai
+```
 
+```bash
 # activate the environment
 source intranet-ai/bin/activate
+```
 
+```bash
 # create a Jupyter Notebook kernel
-pip install jupyter
-pip install ipykernel
+pip install jupyter ipykernel
+```
 
+```bash
 # add your virtual environment as a kernel
 python -m ipykernel install --user --name=intranet-ai --display-name="Py3.10-intranet-ai"
+```
 
+```bash
 # verify kernel installation
 jupyter kernelspec list
-
 ```
 
 ### Download Data
 
 ```bash
-
 pip install gdown
+```
 
+```bash
 # download the zip file from the google drive
 gdown <Link to the zip file in the google drive >
+```
 
+```bash
 # unzip Data
 unzip v2-20240508T101819Z-001.zip
 ```
@@ -384,17 +395,61 @@ The original multilingual files are kept separately in the [original_bilingual_f
     Betriebs- und Dienstanweisung für das Personal in den Bädern der Stadt XYZ
     ```
 
-Before Choosing an LLM to act on your data, you need to process the data and load it. The ingestion pipeline consists of three main stages:
+### Document Statistics
 
-1. Load the data
-2. Transform the data
-3. Index and store the data
+#### Word Count Statistics
 
-### Loaders
+The dataset consists of 44 documents. Below is a summary of the word count statistics for these documents:
 
-We used data connectors, also called **Reader** in Llamaindex, specifically the `SimpleDirectoryReader`, which creates documents out of every file in a given directory to ingest the data from the `text files` provided to us and format the data into `Docment` objects. A `Document` is a collection of data(text) and metadata about that data.  
+| Statistic          | Value          |
+|--------------------|----------------|
+| Total number of documents | 44           |
+| Mean word count   | 1,145.16 words  |
+| Standard deviation| 750.10 words    |
+| Minimum word count| 157 words       |
+| 25th percentile   | 613.25 words    |
+| Median (50th percentile) | 994 words       |
+| 75th percentile   | 1,430.25 words  |
+| Maximum word count| 3,142 words     |
 
-### Tranformations
+#### Token Count Statistics
+
+In addition to word counts, token counts were also analyzed using the `tiktoken` library for use with OpenAI LLMs. Below is a summary of the token count statistics for these documents:
+
+| Statistic          | Value          |
+|--------------------|----------------|
+| Total number of documents | 44           |
+| Mean token count  | 1,787.98 tokens  |
+| Standard deviation| 1,139.45 tokens  |
+| Minimum token count| 405 tokens      |
+| 25th percentile   | 862.50 tokens   |
+| Median (50th percentile) | 1,387 tokens    |
+| 75th percentile   | 2,592.50 tokens |
+| Maximum token count| 4,999 tokens    |
+
+#### Token to Word Ratio
+
+The relationship between words and tokens is crucial when working with language models, as these models operate on tokens rather than words. In general, a single word may be split into multiple tokens, especially if it contains punctuation or special characters.
+
+- **Estimated Token Count**: Initially, we used an approximate token-to-word ratio of [**1.3**](https://www.anyscale.com/blog/num-every-llm-developer-should-know) to estimate token counts. Based on this ratio, the mean word count of approximately **1,146 words** per document translates to about **1,490** tokens.
+
+- **Actual Token Count**: Upon further analysis using the `tiktoken` library, we determined the true token counts for each document. This detailed analysis revealed that the actual token-to-word ratio is closer to 1.56.
+
+This means that on average, each word in our documents translates to **1.56** tokens. Consequently, the true token count for a document with approximately **1,146** words is around **1,787** tokens, which is more accurate than our initial rough estimate. Understanding this true ratio helps in better estimating the token usage and optimizing the performance of language models.
+
+#### Total Tokens in Corpus
+
+The total number of tokens in the entire corpus is **78,671** tokens.
+
+## Data Preprocessing
+
+Before Choosing a Large Language Model (LLM) to act on our data, we need to process the data and load it. The ingestion pipeline consists of three main stages:
+
+### Load the data
+
+We used data connectors, also called **Reader** in Llamaindex, specifically the `SimpleDirectoryReader`, which creates documents out of every file in a given directory to ingest the data from the `text files` provided to us and format the data into `Docment` objects. A `Document` is a collection of data(text) and metadata about that data. 
+
+### Transform the data
 
 After the data is loaded, you then need to process and transform your data before putting it into a storage system. These transformations include
 
@@ -408,19 +463,23 @@ Transformation input/output are `Node` objects(a `Document` is a subclass of a `
 
 WHich textsplitter and why?
 
-### Indexing and Embedding
+### Index and store the data
 
-After loading the data, we have a list of Document objects (or a list of Nodes). It's time to build an `Index` over these objects so we can start querying them.
+After loading the data, we have a list of Document objects (or a list of Nodes). It's time to build an `Index` over these 
+objects so we can start querying them.
 
 ## Key Decisions
 
-1. LLM - `gpt-3.5-tubro`
+1. LLM - `gpt-3.5-turbo-0125`
+
 2. Vector Database - `Qdrant`
 
 Under the hood, the Retrieval-Augmented Generation (RAG) application uses the following components:
 
 - Embedding model: `jina-embeddings-v2-base-de` German-English bilingual embeddings model via [Jina.ai](https://jina.ai/embeddings#apiform)
+  ![jina_emebddings_Information](images/jina_embeddings_model.PNG)
 - Vector database: [Qdrant](https://qdrant.tech/)
-- Large Language Model (LLM): `gpt-3.5-turbo` via [OpenAI](https://platform.openai.com/docs/models/gpt-3-5-turbo)
+- Large Language Model (LLM): `gpt-3.5-turbo-0125` via [OpenAI](https://platform.openai.com/docs/models/gpt-3-5-turbo)
+  ![GPT4o_turbo_Information](images/gpt_model.PNG)
 - Orchestration framework: [LlamaIndex](https://www.llamaindex.ai/)
 - App framework: [Gradio](https://www.gradio.app/)
